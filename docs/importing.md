@@ -1,6 +1,6 @@
 # Import the original map without losing information
 
-**Pending input:** original KMZ/KML or complete uMap export. Do not reconstruct zones from memory, a screenshot, or guessed neighbourhood boundaries.
+**First import completed:** see [the import record](import-record.md) for the supplied KML, checksum, counts, and preserved metadata. Use the checklist below for future imports. Do not reconstruct zones from memory, a screenshot, or guessed neighbourhood boundaries.
 
 1. Keep an untouched source backup outside the public repository. Record its filename, checksum, export date if known, and origin. Review it for private notes and secret edit links before publishing any part of it.
 2. Inventory every source layer/folder, feature count, geometry type, name, description, ID, and style. Record that inventory and the source-to-file mapping in the import pull request.
@@ -10,4 +10,4 @@
 6. Run validation, compare counts by layer, and visually inspect every zone including holes and multi-part polygons. Record conversion losses and unresolved differences explicitly. Do not simplify boundaries unless requested.
 7. Open an import pull request. After owner review and merge, connect new uMap remote layers alongside the originals and compare them. The original map remains the reference until verified.
 
-No conversion or import has been performed yet.
+The original KML has been converted. Importing new exports must reconcile existing feature IDs and edits rather than replacing the layer blindly.

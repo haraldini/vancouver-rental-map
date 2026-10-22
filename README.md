@@ -2,21 +2,21 @@
 
 A shared map with versioned GeoJSON on GitHub, human editing in **geojson.io**, and display through **uMap remote layers**. Humans and AI agents edit the same files through reviewed pull requests.
 
-**Status: awaiting the original KMZ or uMap export.** The zones file is intentionally empty. No boundaries, neighbourhood rankings, or rental listings have been invented. An empty map is expected until real data is imported.
+**Status: original KML imported.** The layer contains 23 area polygons and one Highway 1 boundary line from the supplied export. Coordinates, descriptions, source categories, and colours are preserved. See the [import record and feature inventory](docs/import-record.md) for provenance and source caveats. The descriptions are source assertions, not independently verified rental or transit facts.
 
 ## Start here
 
-1. Supply the original export and follow [Importing existing data](docs/importing.md).
+1. Review the [import record](docs/import-record.md) and merge the import pull request to publish the supplied features.
 2. [Edit the zones in geojson.io](https://geojson.io/#id=github:haraldini/vancouver-rental-map/blob/main/data/zones.geojson&map=12/49.274314/-123.021465). Follow [the editing guide](CONTRIBUTING.md) to save changes back to GitHub.
 3. Configure [uMap remote layers](docs/umap.md) once, then reload uMap after updates reach `main`.
 
-The editor link and production URL require this scaffold to be merged into `main` first. Before merge, open the file from the pull request's branch or download it and use Open → File in geojson.io.
+The editor link and production URL show `main`. Until the import pull request is merged, they show the previous empty layer. To preview the import, download `data/zones.geojson` from that pull request and use Open → File in geojson.io.
 
 ## Layers and publishing
 
 | Layer | Canonical file | Purpose |
 | --- | --- | --- |
-| Zones | [data/zones.geojson](data/zones.geojson) | Empty container for the user's supplied search areas |
+| Zones | [data/zones.geojson](data/zones.geojson) | 23 supplied search areas + Highway 1 boundary (one source layer) |
 
 Production remote URL:
 
@@ -26,7 +26,7 @@ https://raw.githubusercontent.com/haraldini/vancouver-rental-map/main/data/zones
 
 GitHub serves the committed file directly. **No Pages site, build, API key, or deployment account is required.** Merging a pull request to `main` publishes the data at the stable URL. Raw-file and browser caching may delay visibility; reload and verify the raw contents before troubleshooting uMap. This is not live collaboration: geojson.io does not synchronize changes back automatically.
 
-Add one `.geojson` file per actual source layer under `data/`, then add its raw URL to uMap and this table. Do not split or merge original layers without recording the mapping. uMap appearance and layer order live in uMap; GitHub owns geometry and feature properties.
+Add one `.geojson` file per actual source layer under `data/`, then add its raw URL to uMap and this table. Do not split or merge original layers without recording the mapping. uMap layer order and layer defaults live in uMap; GitHub owns geometry, feature properties, and imported per-feature styles. The import provides simplestyle properties for geojson.io and `_umap_options` for uMap. Keep these style values synchronized when editing colours.
 
 ## Checks
 
