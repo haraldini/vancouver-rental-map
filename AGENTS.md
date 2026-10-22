@@ -1,7 +1,7 @@
 # Map editing instructions
 
 - Canonical geographic data lives in `data/*.geojson`. GitHub `main` is the published version; uMap is a remote viewer.
-- Never invent zones, coordinates, rental facts, scores, or source attribution. Until the original KMZ/uMap export arrives, leave the supplied empty FeatureCollection empty.
+- Never invent zones, coordinates, rental facts, scores, or source attribution. The original KML is now imported; see `docs/import-record.md`. Preserve source caveats and distinguish source recommendations from owner-approved changes.
 - Inspect current files and git status first. Preserve uncommitted user work and unrelated features, all existing properties, IDs, geometry precision, polygon holes, and layer boundaries.
 - Make changes on a branch and propose a pull request. Do not merge without the owner's instruction.
 - Follow `docs/data-format.md`. Record geometry provenance in `properties.source`; preserve original metadata under its original keys.
