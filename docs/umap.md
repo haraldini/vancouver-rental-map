@@ -1,6 +1,6 @@
 # Connect uMap to GitHub
 
-Do this after the import pull request is merged to `main`. No uMap settings have been changed by this repository setup.
+Do this after the relevant map-update pull request is merged to `main`. No uMap settings have been changed by this repository setup.
 
 1. Open your map with your own edit access. Download a complete uMap backup before changing its layers. Keep any secret editing URL private.
 2. Create a **new layer** named `Zones (GitHub)` rather than replacing an existing layer. Open its properties and expand **Remote data**.
@@ -12,7 +12,7 @@ Do this after the import pull request is merged to `main`. No uMap settings have
 
 4. Leave **Dynamic** off for this static file. It fetches the full layer when loading the map. Dynamic mode refetches on map movement; it is not a timer or a GitHub synchronization mechanism. Leave proxy off initially; if the host blocks cross-origin access, try the proxy and account for its cache.
 5. Set layer styling and popup content (for example `{name}` and `{description}` where present), then save the map. Check it in a fresh viewer tab.
-6. Expect 23 area polygons and one Highway 1 line after the import reaches `main`. Compare names, counts, boundaries, and styling against the original map. Per-feature `_umap_options` carry the imported colours; confirm these render as intended on your uMap instance. Keep original layers until that comparison is complete; hide duplicates only when satisfied.
+6. Expect 36 area polygons and one Highway 1 line after the redraw reaches `main`. Compare names, counts, boundaries, and styling against the original map. Per-feature `_umap_options` carry the current priority colours; confirm these render as intended on your uMap instance. Keep original layers until that comparison is complete; hide duplicates only when satisfied.
 
 Repeat for each actual layer file, using `https://raw.githubusercontent.com/haraldini/vancouver-rental-map/main/data/<filename>.geojson`.
 

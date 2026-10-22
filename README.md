@@ -2,7 +2,7 @@
 
 A shared map with versioned GeoJSON on GitHub, human editing in **geojson.io**, and display through **uMap remote layers**. Humans and AI agents edit the same files through reviewed pull requests.
 
-**Status: original KML imported.** The layer contains 23 area polygons and one Highway 1 boundary line from the supplied export. Geometry and original source notes are preserved. Current search priorities and display colours follow the [owner-approved priority update](docs/search-priorities.md). See the [import record and feature inventory](docs/import-record.md) for provenance and source caveats. The descriptions are source assertions, not independently verified rental or transit facts.
+**Status: 36 search pockets plus a Highway 1 reference line.** The original map has been refined into smaller pockets, with new trial areas in Vancouver and Coquitlam. See the [priority legend](docs/search-priorities.md) and [redraw references](docs/redraw-2026-10-21.md). Boundaries are approximate search guides; assess each actual address. Descriptions are brief: Good, Bad, Important.
 
 ## Start here
 
@@ -16,7 +16,7 @@ The editor link and production URL show `main`. Changes in a pull request appear
 
 | Layer | Canonical file | Purpose |
 | --- | --- | --- |
-| Zones | [data/zones.geojson](data/zones.geojson) | 23 supplied search areas + Highway 1 boundary (one source layer) |
+| Zones | [data/zones.geojson](data/zones.geojson) | 36 search pockets + Highway 1 reference (one editable layer) |
 
 Production remote URL:
 

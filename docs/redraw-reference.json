@@ -1,0 +1,981 @@
+{
+  "date": "2026-10-21",
+  "coordinate_system": "WGS84 longitude, latitude",
+  "anchors": {
+    "austin_ne": {
+      "query": "Marmont St and Ridgeway Ave, Coquitlam",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Marmont+St+and+Ridgeway+Ave%2C+Coquitlam%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.8621831,
+        49.2496738
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Marmont St and Ridgeway Ave, Coquitlam, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "80ae0909-a398-48b5-ad3f-368e0e30be1e"
+    },
+    "austin_nw": {
+      "query": "Blue Mountain St and Ridgeway Ave, Coquitlam",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Blue+Mountain+St+and+Ridgeway+Ave%2C+Coquitlam%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.8691065,
+        49.2497216
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Blue Mountain St and Ridgeway Ave, Coquitlam, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "0eed3ee5-1301-4276-82bb-2da5b8873131"
+    },
+    "austin_se": {
+      "query": "Marmont St and Rochester Ave, Coquitlam",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Marmont+St+and+Rochester+Ave%2C+Coquitlam%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.8622074,
+        49.2453283
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Marmont St and Rochester Ave, Coquitlam, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "a822008e-489e-445f-95d7-7622aa0bb188"
+    },
+    "austin_sw": {
+      "query": "Blue Mountain St and Rochester Ave, Coquitlam",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Blue+Mountain+St+and+Rochester+Ave%2C+Coquitlam%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.8728454,
+        49.2453589
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Blue Mountain St and Rochester Ave, Coquitlam, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "59f2992c-621a-4d2d-b80e-6b6619c52a26"
+    },
+    "burq_ne": {
+      "query": "Como Lake Ave and Dogwood St, Coquitlam",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Como+Lake+Ave+and+Dogwood+St%2C+Coquitlam%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.8835164,
+        49.2634466
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Como Lake Ave and Dogwood St, Coquitlam, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "313dabc7-95be-42bb-82d1-3bada32c4cae"
+    },
+    "burq_sw": {
+      "query": "North Rd and Foster Ave, Coquitlam",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=North+Rd+and+Foster+Ave%2C+Coquitlam%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.8929908,
+        49.2568059
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Foster Ave and North Rd, Coquitlam, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "86e1318f-9fc2-4973-962d-9c1b32f3a25f"
+    },
+    "central_ne": {
+      "query": "St Georges Ave and E 23rd St, North Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=St+Georges+Ave+and+E+23rd+St%2C+North+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.0689915,
+        49.3301996
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "E 23rd St and St. Georges Ave, North Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "05a42b8f-c9f4-4073-b71c-ff4e2531e336"
+    },
+    "central_nw": {
+      "query": "Chesterfield Ave and W 23rd St, North Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Chesterfield+Ave+and+W+23rd+St%2C+North+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.0752849,
+        49.3302782
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Chesterfield Ave and W 23rd St, North Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "a2d90c64-af28-4476-9238-2b31dca290b4"
+    },
+    "central_se": {
+      "query": "St Georges Ave and E Keith Rd, North Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=St+Georges+Ave+and+E+Keith+Rd%2C+North+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.0705395,
+        49.3154685
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "E Keith Rd and St. Georges Ave, North Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "f1f14b2b-0c3c-47f2-9ef9-a79fb46f17d9"
+    },
+    "central_sw": {
+      "query": "Chesterfield Ave and W Keith Rd, North Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Chesterfield+Ave+and+W+Keith+Rd%2C+North+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.0768038,
+        49.3180917
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Chesterfield Ave and W Keith Rd, North Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "6605303b-4d55-4e5c-928c-1a1d551d7f21"
+    },
+    "douglas_ne": {
+      "query": "Cambie St and W 16th Ave, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Cambie+St+and+W+16th+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.1151633,
+        49.2569127
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Cambie St and W 16th Ave, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "fe109bbd-d4dc-4115-a79b-1d4bcd014aae"
+    },
+    "douglas_nw": {
+      "query": "Oak St and W 16th Ave, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Oak+St+and+W+16th+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.1272107,
+        49.257117
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Oak St and W 16th Ave, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "450246b0-5451-4738-8ce6-5096f361b685"
+    },
+    "douglas_se": {
+      "query": "Cambie St and W King Edward Ave, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Cambie+St+and+W+King+Edward+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.1155134,
+        49.2490568
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Cambie St and W King Edward Ave, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "9d72051e-3cb8-4e9f-a800-767b4937574c"
+    },
+    "douglas_sw": {
+      "query": "Oak St and W King Edward Ave, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Oak+St+and+W+King+Edward+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.1275098,
+        49.2491363
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Oak St and W King Edward Ave, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "2f07cdc8-7f9c-45b7-ace3-d504d43bcadc"
+    },
+    "dunbar_me": {
+      "query": "Blenheim St and W 33rd Ave, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Blenheim+St+and+W+33rd+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.1786456,
+        49.2423585
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Blenheim St and W 33rd Ave, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "279d4178-0395-4b6b-a127-f3e3c6edc59e"
+    },
+    "dunbar_mw": {
+      "query": "Crown St and W 33rd Ave, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Crown+St+and+W+33rd+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.1936874,
+        49.2424113
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Crown St and W 33rd Ave, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "0ad6b036-d8f4-40f5-b22c-21b732dfa9f8"
+    },
+    "dunbar_ne": {
+      "query": "Blenheim St and W 16th Ave, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Blenheim+St+and+W+16th+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.1780908,
+        49.2578977
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Blenheim St and W 16th Ave, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "dc3ca846-e5af-473b-a4a6-0717163ccdda"
+    },
+    "dunbar_nw": {
+      "query": "Crown St and W 16th Ave, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Crown+St+and+W+16th+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.1935605,
+        49.257976
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Crown St and W 16th Ave, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "28fbe5b0-6752-4ad0-a8d2-84463bf65b18"
+    },
+    "dunbar_se": {
+      "query": "Blenheim St and W 41st Ave, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Blenheim+St+and+W+41st+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.1787147,
+        49.2347607
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Blenheim St and W 41st Ave, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "49706cec-6012-4106-955f-13d6b0257b43"
+    },
+    "dunbar_sw": {
+      "query": "Crown St and W 41st Ave, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Crown+St+and+W+41st+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.1937237,
+        49.2347722
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Crown St and W 41st Ave, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "70c91a4e-76b9-4d54-bae0-447e0484fb8e"
+    },
+    "fcs_nw": {
+      "query": "Burrard St and W 1st Ave, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Burrard+St+and+W+1st+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.1454835,
+        49.2706661
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Burrard St and W 1st Ave, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "40ef05be-1eed-43b5-bc73-de866f92ca9d"
+    },
+    "fcs_se": {
+      "query": "Cambie St and W 6th Ave, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Cambie+St+and+W+6th+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.1146294,
+        49.2657629
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Cambie St and W 6th Ave, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "88207924-d103-4077-b3a7-91fd739a9160"
+    },
+    "fcs_sw": {
+      "query": "Burrard St and W 6th Ave, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Burrard+St+and+W+6th+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.1456627,
+        49.2663042
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Burrard St and W 6th Ave, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "4ae1d2ed-4a6d-41b8-ae82-554bc2c0bd64"
+    },
+    "fcs_waterwest": {
+      "query": "Anderson St and Lameys Mill Rd, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Anderson+St+and+Lameys+Mill+Rd%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.137862,
+        49.2693654
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Anderson St and Lamey's Mill Rd, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "f3016972-cd5f-47fe-8e04-f52d7f29b619"
+    },
+    "fraser_ne": {
+      "query": "E 24th Ave and St. Catherines St, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=E+24th+Ave+and+St.+Catherines+St%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.0858311,
+        49.2491344
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "E 24th Ave and St. Catherines St, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "d099de3e-c945-44db-80fd-440517ac3eb0"
+    },
+    "fraser_nw": {
+      "query": "Prince Edward St and E 24th Ave, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Prince+Edward+St+and+E+24th+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.0967429,
+        49.2493052
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "E 24th Ave and Prince Edward St, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "72d7799c-59cf-4332-acf2-a585547f65e8"
+    },
+    "fraser_se": {
+      "query": "E 33rd Ave and St. Catherines St, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=E+33rd+Ave+and+St.+Catherines+St%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.0860537,
+        49.240275
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "E 33rd Ave and St. Catherines St, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "b608e830-e844-48d4-8b98-21076a3f1f24"
+    },
+    "fraser_sw": {
+      "query": "Prince Edward St and E 33rd Ave, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Prince+Edward+St+and+E+33rd+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.0968961,
+        49.2404241
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "E 33rd Ave and Prince Edward St, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "e1700f7a-644e-4b47-beeb-2326b844d135"
+    },
+    "grand_ne": {
+      "query": "E 23rd St and Grand Blvd, North Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=E+23rd+St+and+Grand+Blvd%2C+North+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.0620219,
+        49.3301094
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "E 23rd St and Grand Blvd, North Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "7de2dcd0-3601-4b79-8195-f90ed21c1edd"
+    },
+    "grand_se": {
+      "query": "Grand Blvd E and E Keith Rd, North Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Grand+Blvd+E+and+E+Keith+Rd%2C+North+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.0565635,
+        49.3134917
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "E Keith Rd and Grand Blvd E, North Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "c942fee8-ee20-4149-99c1-ef3c9a2d1489"
+    },
+    "hastings_ne": {
+      "query": "Eton St and N Renfrew St, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Eton+St+and+N+Renfrew+St%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.0440335,
+        49.2876996
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Eton St and N Renfrew St, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "9b4cff44-ebf4-478d-824d-84a31b7aef93"
+    },
+    "hastings_nw": {
+      "query": "Eton St and N Nanaimo St, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Eton+St+and+N+Nanaimo+St%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.0565044,
+        49.2875327
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Eton St and N Nanaimo St, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "1fe2ebb3-1ab4-420f-8f11-47e09f2fddd1"
+    },
+    "hastings_se": {
+      "query": "E Pender St and Renfrew St, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=E+Pender+St+and+Renfrew+St%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.0440783,
+        49.2802065
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "E Pender St and Renfrew St, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "2c21540e-e056-42a5-bd17-c5519d424d21"
+    },
+    "hastings_sw": {
+      "query": "E Pender St and Nanaimo St, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=E+Pender+St+and+Nanaimo+St%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.0565485,
+        49.2802347
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "E Pender St and Nanaimo St, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "134935fe-d275-44bc-bc6b-54e6eec6a454"
+    },
+    "kits_me": {
+      "query": "Burrard St and W 4th Ave, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Burrard+St+and+W+4th+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.1456404,
+        49.2680059
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Burrard St and W 4th Ave, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "59f0c989-c77f-40c2-8728-5161b7f81988"
+    },
+    "kits_mw": {
+      "query": "Alma St and W 4th Ave, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Alma+St+and+W+4th+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.1856866,
+        49.2686073
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Alma St and W 4th Ave, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "353db5dd-7495-4dfa-9cb4-5582b28e2808"
+    },
+    "kits_ne": {
+      "query": "Burrard St and Cornwall Ave, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Burrard+St+and+Cornwall+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.1450927,
+        49.2724
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Burrard St and Cornwall Ave, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "c3500705-8d8f-4198-955b-0632a7467f0c"
+    },
+    "kits_nw": {
+      "query": "Alma St and Point Grey Rd, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Alma+St+and+Point+Grey+Rd%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.185574,
+        49.2722747
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Alma St and Point Grey Rd, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "a159cace-54c3-408d-b82e-88e72208651f"
+    },
+    "kits_point_ne": {
+      "query": "Chestnut St and Whyte Ave, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Chestnut+St+and+Whyte+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.1462176,
+        49.2753053
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Chestnut St and Whyte Ave, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "3387ad59-a185-4bfc-9fda-a28b8313127e"
+    },
+    "kits_point_nw": {
+      "query": "Arbutus St and Whyte Ave, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Arbutus+St+and+Whyte+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.1518585,
+        49.2754128
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Arbutus St and Whyte Ave, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "0994c8ff-bdbc-4a87-8235-927fadb0db52"
+    },
+    "kits_point_se": {
+      "query": "Chestnut St and Cornwall Ave, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Chestnut+St+and+Cornwall+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.1463402,
+        49.2724445
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Chestnut St and Cornwall Ave, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "f97a55b4-3bf2-44d1-8dcd-5007eee26389"
+    },
+    "kits_point_sw": {
+      "query": "Arbutus St and Cornwall Ave, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Arbutus+St+and+Cornwall+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.1526019,
+        49.2725493
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Arbutus St and Cornwall Ave, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "c83c4d30-4eed-465a-806d-ab1387e7669b"
+    },
+    "kits_se": {
+      "query": "Burrard St and W 16th Ave, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Burrard+St+and+W+16th+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.1460027,
+        49.2571796
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Burrard St and W 16th Ave, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "c34f4e56-726f-48f3-a4d9-1cdcb66508a8"
+    },
+    "kits_shore": {
+      "query": "Trafalgar St and Point Grey Rd, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Trafalgar+St+and+Point+Grey+Rd%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.1641321,
+        49.2735689
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Point Grey Rd and Trafalgar St, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "5e5ff458-26fe-45a3-b040-2ca7271d468f"
+    },
+    "kits_sw": {
+      "query": "Alma St and W 16th Ave, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Alma+St+and+W+16th+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.1860904,
+        49.2580396
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Alma St and W 16th Ave, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "71441bb7-ac1f-41ad-901e-f4fd38dbcc6a"
+    },
+    "lafarge_ne": {
+      "query": "Pipeline Rd and David Ave, Coquitlam",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Pipeline+Rd+and+David+Ave%2C+Coquitlam%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.7811907,
+        49.292793
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "David Ave and Pipeline Rd, Coquitlam, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "b6f5ee04-e019-4e93-8151-20fcea9acbb0"
+    },
+    "lafarge_north": {
+      "query": "David Ave and Pinetree Way, Coquitlam",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=David+Ave+and+Pinetree+Way%2C+Coquitlam%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.7898604,
+        49.2942313
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "David Ave and Pinetree Way, Coquitlam, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "f0049056-cd6d-43f6-a8fd-833c8ad032ed"
+    },
+    "lafarge_se": {
+      "query": "Pipeline Rd and Glen Dr, Coquitlam",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Pipeline+Rd+and+Glen+Dr%2C+Coquitlam%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.7861848,
+        49.2826356
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Glen Dr and Pipeline Rd, Coquitlam, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "8eb183dc-fa65-4a32-8e22-400a3196edea"
+    },
+    "lafarge_sw": {
+      "query": "Johnson St and Glen Dr, Coquitlam",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Johnson+St+and+Glen+Dr%2C+Coquitlam%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.8017375,
+        49.2827102
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Glen Dr and Johnson St, Coquitlam, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "e1ce1b60-445a-475c-a99e-0498ebc70bf7"
+    },
+    "moody_ne": {
+      "query": "Electronic Ave and Murray St, Port Moody",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Electronic+Ave+and+Murray+St%2C+Port+Moody%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.8413529,
+        49.2788219
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Electronic Ave and Murray St, Port Moody, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "567820b2-7f80-48d5-b7db-6f7e18dea8df"
+    },
+    "moody_nw": {
+      "query": "Moody St and Murray St, Port Moody",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Moody+St+and+Murray+St%2C+Port+Moody%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.850139,
+        49.2788742
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Moody St and Murray St, Port Moody, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "091c816f-9943-4451-8688-ce760bd89bdc"
+    },
+    "moody_se": {
+      "query": "Electronic Ave and St Johns St, Port Moody",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Electronic+Ave+and+St+Johns+St%2C+Port+Moody%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.8413927,
+        49.2766231
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Electronic Ave and St Johns St, Port Moody, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "37b9ee81-3df0-498c-b402-9984895b50fe"
+    },
+    "moody_sw": {
+      "query": "Moody St and St Johns St, Port Moody",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Moody+St+and+St+Johns+St%2C+Port+Moody%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.850175,
+        49.2766852
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Moody St and St Johns St, Port Moody, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "62463b92-3526-4416-946f-b82c3f8a2230"
+    },
+    "moody_wn": {
+      "query": "Barnet Hwy and Clarke St, Port Moody",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Barnet+Hwy+and+Clarke+St%2C+Port+Moody%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.8668085,
+        49.2777108
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Barnet Hwy and Clarke St, Port Moody, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "39c8e423-c8ea-492b-b6da-da605006cd1a"
+    },
+    "park_east": {
+      "query": "Indian River Dr and Mt Seymour Rd, District of North Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Indian+River+Dr+and+Mt+Seymour+Rd%2C+District+of+North+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.9690776,
+        49.32136
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Indian River Dr and Mt Seymour Rd, District of North Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "cb58cf6f-8e23-46ae-babb-d55675e34d08"
+    },
+    "park_southeast": {
+      "query": "Mt Seymour Pky and Mt Seymour Rd, District of North Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Mt+Seymour+Pky+and+Mt+Seymour+Rd%2C+District+of+North+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.9689488,
+        49.3159915
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Mt Seymour Pky and Mt Seymour Rd, District of North Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "74c7bbb8-99a2-41fa-aa15-31399cb16683"
+    },
+    "park_southwest": {
+      "query": "Mt Seymour Pky and Parkgate Ave, District of North Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Mt+Seymour+Pky+and+Parkgate+Ave%2C+District+of+North+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.9746266,
+        49.3157407
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Mt Seymour Pky and Parkgate Ave, District of North Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "0fbd202a-1425-4030-b09b-38e866981986"
+    },
+    "south_ne": {
+      "query": "Balaclava St and SW Marine Dr, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Balaclava+St+and+SW+Marine+Dr%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.1758841,
+        49.2291008
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Balaclava St and SW Marine Dr, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "bda862ae-6557-4c10-9be6-e0f8ec444bf0"
+    },
+    "south_nw": {
+      "query": "Dunbar St and SW Marine Dr, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Dunbar+St+and+SW+Marine+Dr%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.1854536,
+        49.2301511
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Dunbar St and SW Marine Dr, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "32cd8ed9-8703-453c-a18a-c0348ee7659d"
+    },
+    "south_se": {
+      "query": "Balaclava St and W 53rd Ave, Vancouver",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Balaclava+St+and+W+53rd+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.1760584,
+        49.2234235
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Balaclava St and W 53rd Ave, Vancouver, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "4adce8b1-21d3-495b-bf48-089e75a1dbbe"
+    },
+    "suter_ne": {
+      "query": "Guildford Way and Ungless Way, Port Moody",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Guildford+Way+and+Ungless+Way%2C+Port+Moody%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.8232799,
+        49.2835373
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Guildford Way and Ungless Way, Port Moody, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "ca179370-36f5-4508-9078-14750e3b265c"
+    },
+    "suter_west": {
+      "query": "Capilano Rd and Murray St, Port Moody",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Capilano+Rd+and+Murray+St%2C+Port+Moody%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.8313785,
+        49.2804688
+      ],
+      "copyrightLicense": "https://www2.gov.bc.ca/gov/content?id=A519A56BC2BF44E4A008B33FCF527F61",
+      "matched_address": "Capilano Rd and Murray St, Port Moody, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "6a162d6b-e554-4dd1-84ff-55a27c074023"
+    }
+  },
+  "municipal_fairview_vertices": [
+    [
+      -123.12928009033203,
+      49.2695312490677
+    ],
+    [
+      -123.12116241455078,
+      49.26953887846223
+    ],
+    [
+      -123.11444854736328,
+      49.2717742910599
+    ]
+  ],
+  "municipal_source": "https://opendata.vancouver.ca/explore/dataset/local-area-boundary/",
+  "coquitlam_source": "https://geodata.coquitlam.ca/arcgis/rest/services/DynamicServices/Planning/MapServer/7",
+  "burquitlam_clipped_ring": [
+    [
+      -122.8835164,
+      49.2634466
+    ],
+    [
+      -122.89316920491282,
+      49.2634466
+    ],
+    [
+      -122.89299688412365,
+      49.25852524859899
+    ],
+    [
+      -122.89296360947182,
+      49.2568059
+    ],
+    [
+      -122.8835164,
+      49.2568059
+    ]
+  ],
+  "new_ids": [
+    "area-southern-dunbar",
+    "area-southlands-pocket",
+    "area-kits-southern-streets",
+    "area-grand-boulevard-residential",
+    "area-seymour-southern-lobe",
+    "area-inlet-centre-villages",
+    "area-douglas-park-heather",
+    "area-false-creek-south",
+    "area-fraser-village",
+    "area-hastings-sunrise-trial",
+    "area-burquitlam-trial",
+    "area-lafarge-town-centre-trial",
+    "area-austin-heights-trial"
+  ],
+  "changes": [
+    {
+      "id": "area-2ad2a34550d6",
+      "before_name": "Dunbar–Southlands",
+      "name": "Dunbar village corridor",
+      "method": "Crown/Blenheim intersections at W 16th and W 33rd; deliberately narrower than the original district-wide polygon."
+    },
+    {
+      "id": "area-southern-dunbar",
+      "before_name": "Dunbar–Southlands",
+      "name": "Southern Dunbar",
+      "method": "Crown/Blenheim intersections at W 33rd and W 41st."
+    },
+    {
+      "id": "area-southlands-pocket",
+      "before_name": "Dunbar–Southlands",
+      "name": "Southlands rural pocket",
+      "method": "Dunbar/SW Marine and Balaclava/SW Marine to W 53rd latitude; southwest corner projected from those anchors. Not an asserted Dunbar/W 53rd intersection."
+    },
+    {
+      "id": "area-055e9f3a380b",
+      "before_name": "Kitsilano",
+      "name": "Kits beach-side / Kits Point",
+      "method": "Point Grey Road and Kits Point street anchors, south edge W 4th; not a shoreline survey."
+    },
+    {
+      "id": "area-kits-southern-streets",
+      "before_name": "Kitsilano",
+      "name": "Kits southern residential streets",
+      "method": "Alma/Burrard anchors at W 4th and W 16th."
+    },
+    {
+      "id": "area-6f484b5e60bf",
+      "before_name": "Central Lonsdale (south of Hwy 1)",
+      "name": "Central Lonsdale shopping corridor",
+      "method": "Chesterfield/St Georges from Keith to E/W 23rd; narrower than the original broad eastern polygon."
+    },
+    {
+      "id": "area-grand-boulevard-residential",
+      "before_name": "Central Lonsdale (south of Hwy 1)",
+      "name": "Grand Boulevard residential pocket",
+      "method": "St Georges to Grand Boulevard, Keith to E 23rd."
+    },
+    {
+      "id": "area-1e43f327bc37",
+      "before_name": "Seymour — Parkgate Village core",
+      "name": "Parkgate village core",
+      "method": "Parkgate/Mt Seymour Parkway, Mt Seymour Road and Indian River Drive; northwest corner projected from verified anchor axes."
+    },
+    {
+      "id": "area-seymour-southern-lobe",
+      "before_name": "Seymour — Parkgate Village core",
+      "name": "Seymour southern residential lobe",
+      "method": "Southern lobe extracted from the original KML without moving its four corners."
+    },
+    {
+      "id": "area-488ebd148e07",
+      "before_name": "Port Moody — Rocky Point / St Johns corridor",
+      "name": "Moody Centre / Rocky Point",
+      "method": "Barnet/Clarke west anchor, Moody/Murray and Electronic/Murray north anchors, St Johns south anchors; western south corner projected."
+    },
+    {
+      "id": "area-inlet-centre-villages",
+      "before_name": "Port Moody — Rocky Point / St Johns corridor",
+      "name": "Suter Brook / Newport / Inlet Centre",
+      "method": "Approximate envelope using Capilano/Murray longitude, Guildford/Ungless corner and St Johns latitude; edges do not claim to follow all road curves."
+    },
+    {
+      "id": "area-false-creek-south",
+      "before_name": "New trial pocket",
+      "name": "False Creek South / Charleson Park",
+      "method": "Burrard/W 1st, Anderson/Lameys Mill notch, three municipal Fairview north-edge vertices east of Granville Island, Cambie/Burrard W 6th; selected search outline, not official FCS boundary."
+    },
+    {
+      "id": "area-douglas-park-heather",
+      "before_name": "Cambie Village",
+      "name": "Douglas Park / Heather streets",
+      "method": "Oak/Cambie at W 16th and King Edward; separated from Cambie Village."
+    },
+    {
+      "id": "area-a8851ef76ccb",
+      "before_name": "Cambie Village",
+      "name": "Cambie Village east",
+      "method": "Existing east corners retained; western edge moved to verified Cambie intersections at W 16th and King Edward."
+    },
+    {
+      "id": "area-fraser-village",
+      "before_name": "New trial pocket",
+      "name": "Fraser village / E 24th–33rd",
+      "method": "Prince Edward/St Catherines at E 24th/E 33rd; overlaps the eastern edge of Riley Park intentionally."
+    },
+    {
+      "id": "area-hastings-sunrise-trial",
+      "before_name": "New trial pocket",
+      "name": "Hastings-Sunrise village pocket",
+      "method": "Nanaimo/Renfrew between Eton and E Pender; excludes New Brighton park itself."
+    },
+    {
+      "id": "area-burquitlam-trial",
+      "before_name": "New trial pocket",
+      "name": "Burquitlam station pocket",
+      "method": "Official Coquitlam Cariboo/Burquitlam community boundary clipped at Foster/North latitude, Dogwood/Como Lake latitude and Dogwood longitude; includes both sides of Clarke while retaining the municipal western boundary."
+    },
+    {
+      "id": "area-lafarge-town-centre-trial",
+      "before_name": "New trial pocket",
+      "name": "Lafarge Lake / Town Centre edges",
+      "method": "Johnson/Glen to Pipeline/Glen and Pipeline/David; Pinetree/David and projected northwest corner. Envelope includes park as location context, not rental supply."
+    },
+    {
+      "id": "area-austin-heights-trial",
+      "before_name": "New trial pocket",
+      "name": "Austin Heights village pocket",
+      "method": "Blue Mountain/Marmont between Ridgeway and Rochester; approximate straight connecting edges."
+    }
+  ]
+}
