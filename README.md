@@ -2,15 +2,15 @@
 
 A shared map with versioned GeoJSON on GitHub, human editing in **geojson.io**, and display through **uMap remote layers**. Humans and AI agents edit the same files through reviewed pull requests.
 
-**Status: original KML imported.** The layer contains 23 area polygons and one Highway 1 boundary line from the supplied export. Coordinates, descriptions, source categories, and colours are preserved. See the [import record and feature inventory](docs/import-record.md) for provenance and source caveats. The descriptions are source assertions, not independently verified rental or transit facts.
+**Status: original KML imported.** The layer contains 23 area polygons and one Highway 1 boundary line from the supplied export. Geometry and original source notes are preserved. Current search priorities and display colours follow the [owner-approved priority update](docs/search-priorities.md). See the [import record and feature inventory](docs/import-record.md) for provenance and source caveats. The descriptions are source assertions, not independently verified rental or transit facts.
 
 ## Start here
 
-1. Review the [import record](docs/import-record.md) and merge the import pull request to publish the supplied features.
+1. Review the [current priorities and colour legend](docs/search-priorities.md), with source provenance in the [import record](docs/import-record.md).
 2. [Edit the zones in geojson.io](https://geojson.io/#id=github:haraldini/vancouver-rental-map/blob/main/data/zones.geojson&map=12/49.274314/-123.021465). Follow [the editing guide](CONTRIBUTING.md) to save changes back to GitHub.
 3. Configure [uMap remote layers](docs/umap.md) once, then reload uMap after updates reach `main`.
 
-The editor link and production URL show `main`. Until the import pull request is merged, they show the previous empty layer. To preview the import, download `data/zones.geojson` from that pull request and use Open → File in geojson.io.
+The editor link and production URL show `main`. Changes in a pull request appear there only after merge. To preview a proposed update, download `data/zones.geojson` from its branch and use Open → File in geojson.io.
 
 ## Layers and publishing
 

@@ -1,5 +1,7 @@
 # Original KML import record
 
+This records the initial import. Later priority and display-style changes are documented in [search-priorities.md](search-priorities.md); original notes and styles remain preserved in source metadata.
+
 Imported on 2026-10-21 (America/Vancouver) from the user-supplied `vancouver-rental-search-areas-mymaps(1).kml`.
 The source is a plain KML file, not a compressed KMZ. Its export timestamp is unknown.
 

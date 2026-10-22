@@ -19,3 +19,7 @@ Preserve all additional properties, including source styling. geojson.io simples
 Validation checks required properties, unique IDs, numeric coordinate bounds, geometry nesting, and ring closure. It does not check self-intersections, winding, overlapping zones, polygon containment, real-world correctness, or whether a source claim is true. Visual comparison against the original export is required.
 
 Reference: [RFC 7946](https://www.rfc-editor.org/rfc/rfc7946).
+
+## Current search guidance
+
+See [search-priorities.md](search-priorities.md) for current priority/status fields and the colour legend. Preserve `source_description`, `source_category`, and `kml_style` as historical import metadata. Current popups use `description`; current display styles use simplestyle and `_umap_options`. Update both display style representations together.

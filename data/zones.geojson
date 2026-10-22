@@ -8,10 +8,10 @@
         "id": "area-bca94b349e5a",
         "name": "Lower Lonsdale",
         "source": "vancouver-rental-search-areas-mymaps(1).kml; placemark 1; SHA-256 9198c57c21092dc96ba70253608be313a0ca13c3dc277b2ef11064e65ad6c834",
-        "description": "Category: Core - approved area - North Vancouver\nBounds: Burrard Inlet waterfront (Esplanade) north to Keith Rd; Chesterfield Ave west to St Andrews Ave east\nWhy it fits: Walkable waterfront village, SeaBus to downtown, water/mountain views, low-rise house-form and townhouses — the densest pocket of past matches south of Hwy 1.\nNote: Core approved area. Real civic address still required per listing.",
+        "description": "Current search priority: Lead the search\nSearch status: core\nPrioritize homes combining house-form, useful everyday walks, and waterfront access. Verify actual walking routes and hills; water views depend on the unit.\n\nEvaluate each real address: walk to groceries, a useful cafe, a park or waterfront entrance, and useful transit; account for hills. Commute destinations and travel mode are not yet specified. Location fit does not override property must-haves.\n\nOriginal KML notes (historical source; current search guidance above takes precedence):\nCategory: Core - approved area - North Vancouver\nBounds: Burrard Inlet waterfront (Esplanade) north to Keith Rd; Chesterfield Ave west to St Andrews Ave east\nWhy it fits: Walkable waterfront village, SeaBus to downtown, water/mountain views, low-rise house-form and townhouses — the densest pocket of past matches south of Hwy 1.\nNote: Core approved area. Real civic address still required per listing.",
         "source_document": "Vancouver rental search areas - Harald",
         "source_placemark_index": 1,
-        "category": "Core - approved area - North Vancouver",
+        "category": "Lead the search",
         "kml_style": {
           "LineStyle": {
             "color": "ff327d2e",
@@ -21,18 +21,25 @@
             "color": "40327d2e"
           }
         },
-        "stroke": "#2e7d32",
+        "stroke": "#18794e",
         "stroke-opacity": 1.0,
         "stroke-width": 2.0,
         "_umap_options": {
-          "color": "#2e7d32",
+          "color": "#18794e",
           "opacity": 1.0,
           "weight": 2.0,
-          "fillColor": "#2e7d32",
+          "fillColor": "#18794e",
           "fillOpacity": 0.25098039215686274
         },
-        "fill": "#2e7d32",
-        "fill-opacity": 0.25098039215686274
+        "fill": "#18794e",
+        "fill-opacity": 0.25098039215686274,
+        "source_description": "Category: Core - approved area - North Vancouver\nBounds: Burrard Inlet waterfront (Esplanade) north to Keith Rd; Chesterfield Ave west to St Andrews Ave east\nWhy it fits: Walkable waterfront village, SeaBus to downtown, water/mountain views, low-rise house-form and townhouses — the densest pocket of past matches south of Hwy 1.\nNote: Core approved area. Real civic address still required per listing.",
+        "source_category": "Core - approved area - North Vancouver",
+        "search_priority": "Lead the search",
+        "search_status": "core",
+        "search_guidance": "Prioritize homes combining house-form, useful everyday walks, and waterfront access. Verify actual walking routes and hills; water views depend on the unit.",
+        "priority_updated": "2026-10-21",
+        "priority_basis": "Owner requested implementation of the area-priority feedback in the map discussion."
       },
       "geometry": {
         "type": "Polygon",
@@ -68,10 +75,10 @@
         "id": "area-3116a35e19e5",
         "name": "Moodyville",
         "source": "vancouver-rental-search-areas-mymaps(1).kml; placemark 2; SHA-256 9198c57c21092dc96ba70253608be313a0ca13c3dc277b2ef11064e65ad6c834",
-        "description": "Category: Core - approved area - North Vancouver\nBounds: Waterfront / Low Level Rd north to E 3rd St–Keith Rd; St Andrews Ave west to Moody Ave east\nWhy it fits: Quiet, lower-density residential pocket east of Lower Lonsdale, same waterfront/SeaBus access, house-form stock.\nNote: Core approved area (the lower-density Moodyville pocket named in the criteria). NE corner grid-composed — the Moody Ave & E 3rd St geocode snapped to the shore line.",
+        "description": "Current search priority: Lead the search\nSearch status: core\nPrioritize homes combining house-form, useful everyday walks, and waterfront access. Verify actual walking routes and hills; water views depend on the unit.\n\nEvaluate each real address: walk to groceries, a useful cafe, a park or waterfront entrance, and useful transit; account for hills. Commute destinations and travel mode are not yet specified. Location fit does not override property must-haves.\n\nOriginal KML notes (historical source; current search guidance above takes precedence):\nCategory: Core - approved area - North Vancouver\nBounds: Waterfront / Low Level Rd north to E 3rd St–Keith Rd; St Andrews Ave west to Moody Ave east\nWhy it fits: Quiet, lower-density residential pocket east of Lower Lonsdale, same waterfront/SeaBus access, house-form stock.\nNote: Core approved area (the lower-density Moodyville pocket named in the criteria). NE corner grid-composed — the Moody Ave & E 3rd St geocode snapped to the shore line.",
         "source_document": "Vancouver rental search areas - Harald",
         "source_placemark_index": 2,
-        "category": "Core - approved area - North Vancouver",
+        "category": "Lead the search",
         "kml_style": {
           "LineStyle": {
             "color": "ff327d2e",
@@ -81,18 +88,25 @@
             "color": "40327d2e"
           }
         },
-        "stroke": "#2e7d32",
+        "stroke": "#18794e",
         "stroke-opacity": 1.0,
         "stroke-width": 2.0,
         "_umap_options": {
-          "color": "#2e7d32",
+          "color": "#18794e",
           "opacity": 1.0,
           "weight": 2.0,
-          "fillColor": "#2e7d32",
+          "fillColor": "#18794e",
           "fillOpacity": 0.25098039215686274
         },
-        "fill": "#2e7d32",
-        "fill-opacity": 0.25098039215686274
+        "fill": "#18794e",
+        "fill-opacity": 0.25098039215686274,
+        "source_description": "Category: Core - approved area - North Vancouver\nBounds: Waterfront / Low Level Rd north to E 3rd St–Keith Rd; St Andrews Ave west to Moody Ave east\nWhy it fits: Quiet, lower-density residential pocket east of Lower Lonsdale, same waterfront/SeaBus access, house-form stock.\nNote: Core approved area (the lower-density Moodyville pocket named in the criteria). NE corner grid-composed — the Moody Ave & E 3rd St geocode snapped to the shore line.",
+        "source_category": "Core - approved area - North Vancouver",
+        "search_priority": "Lead the search",
+        "search_status": "core",
+        "search_guidance": "Prioritize homes combining house-form, useful everyday walks, and waterfront access. Verify actual walking routes and hills; water views depend on the unit.",
+        "priority_updated": "2026-10-21",
+        "priority_basis": "Owner requested implementation of the area-priority feedback in the map discussion."
       },
       "geometry": {
         "type": "Polygon",
@@ -128,10 +142,10 @@
         "id": "area-6f484b5e60bf",
         "name": "Central Lonsdale (south of Hwy 1)",
         "source": "vancouver-rental-search-areas-mymaps(1).kml; placemark 3; SHA-256 9198c57c21092dc96ba70253608be313a0ca13c3dc277b2ef11064e65ad6c834",
-        "description": "Category: Core - approved area - North Vancouver\nBounds: Keith Rd north to Highway 1; Chesterfield Ave west to Grand Blvd east (includes the Grand Boulevard heritage corridor)\nWhy it fits: Lonsdale Ave amenities and transit, residential streets of houses/duplexes — only the part south of the highway counts.\nNote: Hard boundary: anything north of the Hwy 1 line is out (Lynn Valley, Blueridge, Capilano). Boundary verified at Lonsdale (Hwy 1 lat 49.33205).",
+        "description": "Current search priority: Search consistently\nSearch status: core\nConsider a better layout, more interior space, and a useful neighbourhood even without water views. East Vancouver remains case-by-case, with the exact street or corner surfaced.\n\nEvaluate each real address: walk to groceries, a useful cafe, a park or waterfront entrance, and useful transit; account for hills. Commute destinations and travel mode are not yet specified. Location fit does not override property must-haves.\n\nOriginal KML notes (historical source; current search guidance above takes precedence):\nCategory: Core - approved area - North Vancouver\nBounds: Keith Rd north to Highway 1; Chesterfield Ave west to Grand Blvd east (includes the Grand Boulevard heritage corridor)\nWhy it fits: Lonsdale Ave amenities and transit, residential streets of houses/duplexes — only the part south of the highway counts.\nNote: Hard boundary: anything north of the Hwy 1 line is out (Lynn Valley, Blueridge, Capilano). Boundary verified at Lonsdale (Hwy 1 lat 49.33205).",
         "source_document": "Vancouver rental search areas - Harald",
         "source_placemark_index": 3,
-        "category": "Core - approved area - North Vancouver",
+        "category": "Search consistently",
         "kml_style": {
           "LineStyle": {
             "color": "ff327d2e",
@@ -141,18 +155,25 @@
             "color": "40327d2e"
           }
         },
-        "stroke": "#2e7d32",
+        "stroke": "#2478b4",
         "stroke-opacity": 1.0,
         "stroke-width": 2.0,
         "_umap_options": {
-          "color": "#2e7d32",
+          "color": "#2478b4",
           "opacity": 1.0,
           "weight": 2.0,
-          "fillColor": "#2e7d32",
+          "fillColor": "#2478b4",
           "fillOpacity": 0.25098039215686274
         },
-        "fill": "#2e7d32",
-        "fill-opacity": 0.25098039215686274
+        "fill": "#2478b4",
+        "fill-opacity": 0.25098039215686274,
+        "source_description": "Category: Core - approved area - North Vancouver\nBounds: Keith Rd north to Highway 1; Chesterfield Ave west to Grand Blvd east (includes the Grand Boulevard heritage corridor)\nWhy it fits: Lonsdale Ave amenities and transit, residential streets of houses/duplexes — only the part south of the highway counts.\nNote: Hard boundary: anything north of the Hwy 1 line is out (Lynn Valley, Blueridge, Capilano). Boundary verified at Lonsdale (Hwy 1 lat 49.33205).",
+        "source_category": "Core - approved area - North Vancouver",
+        "search_priority": "Search consistently",
+        "search_status": "core",
+        "search_guidance": "Consider a better layout, more interior space, and a useful neighbourhood even without water views. East Vancouver remains case-by-case, with the exact street or corner surfaced.",
+        "priority_updated": "2026-10-21",
+        "priority_basis": "Owner requested implementation of the area-priority feedback in the map discussion."
       },
       "geometry": {
         "type": "Polygon",
@@ -196,10 +217,10 @@
         "id": "area-055e9f3a380b",
         "name": "Kitsilano",
         "source": "vancouver-rental-search-areas-mymaps(1).kml; placemark 4; SHA-256 9198c57c21092dc96ba70253608be313a0ca13c3dc277b2ef11064e65ad6c834",
-        "description": "Category: Core - approved area - Vancouver\nBounds: English Bay / Point Grey Rd waterfront south to W 16th Ave; Alma St west to Burrard St east (includes Kits Point)\nWhy it fits: Beach and water views, walkable villages (W 4th, Yew, Cornwall), house-form and low-rise stock, strong transit.\nNote: Core approved area.",
+        "description": "Current search priority: Lead the search\nSearch status: core\nPrioritize homes combining house-form, useful everyday walks, and waterfront access. Verify actual walking routes and hills; water views depend on the unit.\n\nEvaluate each real address: walk to groceries, a useful cafe, a park or waterfront entrance, and useful transit; account for hills. Commute destinations and travel mode are not yet specified. Location fit does not override property must-haves.\n\nOriginal KML notes (historical source; current search guidance above takes precedence):\nCategory: Core - approved area - Vancouver\nBounds: English Bay / Point Grey Rd waterfront south to W 16th Ave; Alma St west to Burrard St east (includes Kits Point)\nWhy it fits: Beach and water views, walkable villages (W 4th, Yew, Cornwall), house-form and low-rise stock, strong transit.\nNote: Core approved area.",
         "source_document": "Vancouver rental search areas - Harald",
         "source_placemark_index": 4,
-        "category": "Core - approved area - Vancouver",
+        "category": "Lead the search",
         "kml_style": {
           "LineStyle": {
             "color": "ff327d2e",
@@ -209,18 +230,25 @@
             "color": "40327d2e"
           }
         },
-        "stroke": "#2e7d32",
+        "stroke": "#18794e",
         "stroke-opacity": 1.0,
         "stroke-width": 2.0,
         "_umap_options": {
-          "color": "#2e7d32",
+          "color": "#18794e",
           "opacity": 1.0,
           "weight": 2.0,
-          "fillColor": "#2e7d32",
+          "fillColor": "#18794e",
           "fillOpacity": 0.25098039215686274
         },
-        "fill": "#2e7d32",
-        "fill-opacity": 0.25098039215686274
+        "fill": "#18794e",
+        "fill-opacity": 0.25098039215686274,
+        "source_description": "Category: Core - approved area - Vancouver\nBounds: English Bay / Point Grey Rd waterfront south to W 16th Ave; Alma St west to Burrard St east (includes Kits Point)\nWhy it fits: Beach and water views, walkable villages (W 4th, Yew, Cornwall), house-form and low-rise stock, strong transit.\nNote: Core approved area.",
+        "source_category": "Core - approved area - Vancouver",
+        "search_priority": "Lead the search",
+        "search_status": "core",
+        "search_guidance": "Prioritize homes combining house-form, useful everyday walks, and waterfront access. Verify actual walking routes and hills; water views depend on the unit.",
+        "priority_updated": "2026-10-21",
+        "priority_basis": "Owner requested implementation of the area-priority feedback in the map discussion."
       },
       "geometry": {
         "type": "Polygon",
@@ -260,10 +288,10 @@
         "id": "area-d593b6d58d10",
         "name": "Point Grey",
         "source": "vancouver-rental-search-areas-mymaps(1).kml; placemark 5; SHA-256 9198c57c21092dc96ba70253608be313a0ca13c3dc277b2ef11064e65ad6c834",
-        "description": "Category: Core - approved area - Vancouver\nBounds: Waterfront (Point Grey Rd / NW Marine Dr) south to W 16th Ave; Blanca St west to Alma St east\nWhy it fits: Quiet residential streets, water views on the north slope, Jericho/Spanish Banks nature, village at W 10th & Alma.\nNote: Core approved area. West of Blanca is UBC/Endowment Lands — not included.",
+        "description": "Current search priority: Exceptional-home opportunities\nSearch status: core\nKeep for a particularly strong home. Check everyday destinations and actual travel times before committing; an attractive property alone does not establish location fit.\n\nEvaluate each real address: walk to groceries, a useful cafe, a park or waterfront entrance, and useful transit; account for hills. Commute destinations and travel mode are not yet specified. Location fit does not override property must-haves.\n\nOriginal KML notes (historical source; current search guidance above takes precedence):\nCategory: Core - approved area - Vancouver\nBounds: Waterfront (Point Grey Rd / NW Marine Dr) south to W 16th Ave; Blanca St west to Alma St east\nWhy it fits: Quiet residential streets, water views on the north slope, Jericho/Spanish Banks nature, village at W 10th & Alma.\nNote: Core approved area. West of Blanca is UBC/Endowment Lands — not included.",
         "source_document": "Vancouver rental search areas - Harald",
         "source_placemark_index": 5,
-        "category": "Core - approved area - Vancouver",
+        "category": "Exceptional-home opportunities",
         "kml_style": {
           "LineStyle": {
             "color": "ff327d2e",
@@ -273,18 +301,25 @@
             "color": "40327d2e"
           }
         },
-        "stroke": "#2e7d32",
+        "stroke": "#a66b16",
         "stroke-opacity": 1.0,
         "stroke-width": 2.0,
         "_umap_options": {
-          "color": "#2e7d32",
+          "color": "#a66b16",
           "opacity": 1.0,
           "weight": 2.0,
-          "fillColor": "#2e7d32",
+          "fillColor": "#a66b16",
           "fillOpacity": 0.25098039215686274
         },
-        "fill": "#2e7d32",
-        "fill-opacity": 0.25098039215686274
+        "fill": "#a66b16",
+        "fill-opacity": 0.25098039215686274,
+        "source_description": "Category: Core - approved area - Vancouver\nBounds: Waterfront (Point Grey Rd / NW Marine Dr) south to W 16th Ave; Blanca St west to Alma St east\nWhy it fits: Quiet residential streets, water views on the north slope, Jericho/Spanish Banks nature, village at W 10th & Alma.\nNote: Core approved area. West of Blanca is UBC/Endowment Lands — not included.",
+        "source_category": "Core - approved area - Vancouver",
+        "search_priority": "Exceptional-home opportunities",
+        "search_status": "core",
+        "search_guidance": "Keep for a particularly strong home. Check everyday destinations and actual travel times before committing; an attractive property alone does not establish location fit.",
+        "priority_updated": "2026-10-21",
+        "priority_basis": "Owner requested implementation of the area-priority feedback in the map discussion."
       },
       "geometry": {
         "type": "Polygon",
@@ -324,10 +359,10 @@
         "id": "area-2ad2a34550d6",
         "name": "Dunbar–Southlands",
         "source": "vancouver-rental-search-areas-mymaps(1).kml; placemark 6; SHA-256 9198c57c21092dc96ba70253608be313a0ca13c3dc277b2ef11064e65ad6c834",
-        "description": "Category: Core - approved area - Vancouver\nBounds: W 16th Ave south to SW Marine Dr / Fraser River; Blanca St west to Granville St east. Southlands = the part south of W 41st Ave\nWhy it fits: Leafy house-form streets along Dunbar St village; Southlands is semi-rural riverfront with large lots (Shalimar Place area) — nature and space, still inside budget on townhouses.\nNote: Core approved area. East of Granville is Shaughnessy/Kerrisdale — not part of the standing filter.",
+        "description": "Current search priority: Exceptional-home opportunities\nSearch status: core\nKeep for a particularly strong home. Check everyday destinations and actual travel times before committing; an attractive property alone does not establish location fit.\n\nEvaluate each real address: walk to groceries, a useful cafe, a park or waterfront entrance, and useful transit; account for hills. Commute destinations and travel mode are not yet specified. Location fit does not override property must-haves.\n\nOriginal KML notes (historical source; current search guidance above takes precedence):\nCategory: Core - approved area - Vancouver\nBounds: W 16th Ave south to SW Marine Dr / Fraser River; Blanca St west to Granville St east. Southlands = the part south of W 41st Ave\nWhy it fits: Leafy house-form streets along Dunbar St village; Southlands is semi-rural riverfront with large lots (Shalimar Place area) — nature and space, still inside budget on townhouses.\nNote: Core approved area. East of Granville is Shaughnessy/Kerrisdale — not part of the standing filter.",
         "source_document": "Vancouver rental search areas - Harald",
         "source_placemark_index": 6,
-        "category": "Core - approved area - Vancouver",
+        "category": "Exceptional-home opportunities",
         "kml_style": {
           "LineStyle": {
             "color": "ff327d2e",
@@ -337,18 +372,25 @@
             "color": "40327d2e"
           }
         },
-        "stroke": "#2e7d32",
+        "stroke": "#a66b16",
         "stroke-opacity": 1.0,
         "stroke-width": 2.0,
         "_umap_options": {
-          "color": "#2e7d32",
+          "color": "#a66b16",
           "opacity": 1.0,
           "weight": 2.0,
-          "fillColor": "#2e7d32",
+          "fillColor": "#a66b16",
           "fillOpacity": 0.25098039215686274
         },
-        "fill": "#2e7d32",
-        "fill-opacity": 0.25098039215686274
+        "fill": "#a66b16",
+        "fill-opacity": 0.25098039215686274,
+        "source_description": "Category: Core - approved area - Vancouver\nBounds: W 16th Ave south to SW Marine Dr / Fraser River; Blanca St west to Granville St east. Southlands = the part south of W 41st Ave\nWhy it fits: Leafy house-form streets along Dunbar St village; Southlands is semi-rural riverfront with large lots (Shalimar Place area) — nature and space, still inside budget on townhouses.\nNote: Core approved area. East of Granville is Shaughnessy/Kerrisdale — not part of the standing filter.",
+        "source_category": "Core - approved area - Vancouver",
+        "search_priority": "Exceptional-home opportunities",
+        "search_status": "core",
+        "search_guidance": "Keep for a particularly strong home. Check everyday destinations and actual travel times before committing; an attractive property alone does not establish location fit.",
+        "priority_updated": "2026-10-21",
+        "priority_basis": "Owner requested implementation of the area-priority feedback in the map discussion."
       },
       "geometry": {
         "type": "Polygon",
@@ -388,10 +430,10 @@
         "id": "area-b2d0a31cf096",
         "name": "Fairview Slopes",
         "source": "vancouver-rental-search-areas-mymaps(1).kml; placemark 7; SHA-256 9198c57c21092dc96ba70253608be313a0ca13c3dc277b2ef11064e65ad6c834",
-        "description": "Category: Core - approved area - Vancouver\nBounds: W 6th Ave south to W 16th Ave; Burrard St west to Cambie St east (includes South Granville)\nWhy it fits: Sloped streets with False Creek/city views, walkable to Granville Island and the seawall, townhouse stock (Boxwood Green pocket at W 6th & Laurel).\nNote: Core approved area (added 2026-10-15).",
+        "description": "Current search priority: Lead the search\nSearch status: core\nPrioritize homes combining house-form, useful everyday walks, and waterfront access. Verify actual walking routes and hills; water views depend on the unit.\n\nEvaluate each real address: walk to groceries, a useful cafe, a park or waterfront entrance, and useful transit; account for hills. Commute destinations and travel mode are not yet specified. Location fit does not override property must-haves.\n\nOriginal KML notes (historical source; current search guidance above takes precedence):\nCategory: Core - approved area - Vancouver\nBounds: W 6th Ave south to W 16th Ave; Burrard St west to Cambie St east (includes South Granville)\nWhy it fits: Sloped streets with False Creek/city views, walkable to Granville Island and the seawall, townhouse stock (Boxwood Green pocket at W 6th & Laurel).\nNote: Core approved area (added 2026-10-15).",
         "source_document": "Vancouver rental search areas - Harald",
         "source_placemark_index": 7,
-        "category": "Core - approved area - Vancouver",
+        "category": "Lead the search",
         "kml_style": {
           "LineStyle": {
             "color": "ff327d2e",
@@ -401,18 +443,25 @@
             "color": "40327d2e"
           }
         },
-        "stroke": "#2e7d32",
+        "stroke": "#18794e",
         "stroke-opacity": 1.0,
         "stroke-width": 2.0,
         "_umap_options": {
-          "color": "#2e7d32",
+          "color": "#18794e",
           "opacity": 1.0,
           "weight": 2.0,
-          "fillColor": "#2e7d32",
+          "fillColor": "#18794e",
           "fillOpacity": 0.25098039215686274
         },
-        "fill": "#2e7d32",
-        "fill-opacity": 0.25098039215686274
+        "fill": "#18794e",
+        "fill-opacity": 0.25098039215686274,
+        "source_description": "Category: Core - approved area - Vancouver\nBounds: W 6th Ave south to W 16th Ave; Burrard St west to Cambie St east (includes South Granville)\nWhy it fits: Sloped streets with False Creek/city views, walkable to Granville Island and the seawall, townhouse stock (Boxwood Green pocket at W 6th & Laurel).\nNote: Core approved area (added 2026-10-15).",
+        "source_category": "Core - approved area - Vancouver",
+        "search_priority": "Lead the search",
+        "search_status": "core",
+        "search_guidance": "Prioritize homes combining house-form, useful everyday walks, and waterfront access. Verify actual walking routes and hills; water views depend on the unit.",
+        "priority_updated": "2026-10-21",
+        "priority_basis": "Owner requested implementation of the area-priority feedback in the map discussion."
       },
       "geometry": {
         "type": "Polygon",
@@ -448,10 +497,10 @@
         "id": "area-bed470b894ba",
         "name": "Olympic Village / False Creek South",
         "source": "vancouver-rental-search-areas-mymaps(1).kml; placemark 8; SHA-256 9198c57c21092dc96ba70253608be313a0ca13c3dc277b2ef11064e65ad6c834",
-        "description": "Category: Core - approved area - Vancouver\nBounds: False Creek waterfront south to W 6th Ave; Cambie St west to Main St east\nWhy it fits: Seawall at the door, water views, modern low/mid-rise stock, Canada Line + SkyTrain access.\nNote: Core approved area (added 2026-10-15). Large-building form is a weaker taste fit — townhouse/low-rise units preferred.",
+        "description": "Current search priority: Selective property search\nSearch status: core\nPrioritize unusual townhouses, low-rise homes, and strong layouts. Large-building units need to compensate through views, private outdoor space, or other strong features.\n\nEvaluate each real address: walk to groceries, a useful cafe, a park or waterfront entrance, and useful transit; account for hills. Commute destinations and travel mode are not yet specified. Location fit does not override property must-haves.\n\nOriginal KML notes (historical source; current search guidance above takes precedence):\nCategory: Core - approved area - Vancouver\nBounds: False Creek waterfront south to W 6th Ave; Cambie St west to Main St east\nWhy it fits: Seawall at the door, water views, modern low/mid-rise stock, Canada Line + SkyTrain access.\nNote: Core approved area (added 2026-10-15). Large-building form is a weaker taste fit — townhouse/low-rise units preferred.",
         "source_document": "Vancouver rental search areas - Harald",
         "source_placemark_index": 8,
-        "category": "Core - approved area - Vancouver",
+        "category": "Selective property search",
         "kml_style": {
           "LineStyle": {
             "color": "ff327d2e",
@@ -461,18 +510,25 @@
             "color": "40327d2e"
           }
         },
-        "stroke": "#2e7d32",
+        "stroke": "#7e57a5",
         "stroke-opacity": 1.0,
         "stroke-width": 2.0,
         "_umap_options": {
-          "color": "#2e7d32",
+          "color": "#7e57a5",
           "opacity": 1.0,
           "weight": 2.0,
-          "fillColor": "#2e7d32",
+          "fillColor": "#7e57a5",
           "fillOpacity": 0.25098039215686274
         },
-        "fill": "#2e7d32",
-        "fill-opacity": 0.25098039215686274
+        "fill": "#7e57a5",
+        "fill-opacity": 0.25098039215686274,
+        "source_description": "Category: Core - approved area - Vancouver\nBounds: False Creek waterfront south to W 6th Ave; Cambie St west to Main St east\nWhy it fits: Seawall at the door, water views, modern low/mid-rise stock, Canada Line + SkyTrain access.\nNote: Core approved area (added 2026-10-15). Large-building form is a weaker taste fit — townhouse/low-rise units preferred.",
+        "source_category": "Core - approved area - Vancouver",
+        "search_priority": "Selective property search",
+        "search_status": "core",
+        "search_guidance": "Prioritize unusual townhouses, low-rise homes, and strong layouts. Large-building units need to compensate through views, private outdoor space, or other strong features.",
+        "priority_updated": "2026-10-21",
+        "priority_basis": "Owner requested implementation of the area-priority feedback in the map discussion."
       },
       "geometry": {
         "type": "Polygon",
@@ -508,10 +564,10 @@
         "id": "area-228fc625e83d",
         "name": "West End (Stanley Park side)",
         "source": "vancouver-rental-search-areas-mymaps(1).kml; placemark 9; SHA-256 9198c57c21092dc96ba70253608be313a0ca13c3dc277b2ef11064e65ad6c834",
-        "description": "Category: Core - approved area - Vancouver\nBounds: West of Burrard St; Coal Harbour / Stanley Park edge north, English Bay (Beach Ave) south\nWhy it fits: Stanley Park nature, English Bay water views, walkable Denman/Davie villages.\nNote: Core approved area (added 2026-10-15), Stanley Park side preferred. Mostly apartment buildings — weaker house-form fit, so matches here need to be strong on other axes.",
+        "description": "Current search priority: Selective property search\nSearch status: core\nPrioritize unusual townhouses, low-rise homes, and strong layouts. Large-building units need to compensate through views, private outdoor space, or other strong features.\n\nEvaluate each real address: walk to groceries, a useful cafe, a park or waterfront entrance, and useful transit; account for hills. Commute destinations and travel mode are not yet specified. Location fit does not override property must-haves.\n\nOriginal KML notes (historical source; current search guidance above takes precedence):\nCategory: Core - approved area - Vancouver\nBounds: West of Burrard St; Coal Harbour / Stanley Park edge north, English Bay (Beach Ave) south\nWhy it fits: Stanley Park nature, English Bay water views, walkable Denman/Davie villages.\nNote: Core approved area (added 2026-10-15), Stanley Park side preferred. Mostly apartment buildings — weaker house-form fit, so matches here need to be strong on other axes.",
         "source_document": "Vancouver rental search areas - Harald",
         "source_placemark_index": 9,
-        "category": "Core - approved area - Vancouver",
+        "category": "Selective property search",
         "kml_style": {
           "LineStyle": {
             "color": "ff327d2e",
@@ -521,18 +577,25 @@
             "color": "40327d2e"
           }
         },
-        "stroke": "#2e7d32",
+        "stroke": "#7e57a5",
         "stroke-opacity": 1.0,
         "stroke-width": 2.0,
         "_umap_options": {
-          "color": "#2e7d32",
+          "color": "#7e57a5",
           "opacity": 1.0,
           "weight": 2.0,
-          "fillColor": "#2e7d32",
+          "fillColor": "#7e57a5",
           "fillOpacity": 0.25098039215686274
         },
-        "fill": "#2e7d32",
-        "fill-opacity": 0.25098039215686274
+        "fill": "#7e57a5",
+        "fill-opacity": 0.25098039215686274,
+        "source_description": "Category: Core - approved area - Vancouver\nBounds: West of Burrard St; Coal Harbour / Stanley Park edge north, English Bay (Beach Ave) south\nWhy it fits: Stanley Park nature, English Bay water views, walkable Denman/Davie villages.\nNote: Core approved area (added 2026-10-15), Stanley Park side preferred. Mostly apartment buildings — weaker house-form fit, so matches here need to be strong on other axes.",
+        "source_category": "Core - approved area - Vancouver",
+        "search_priority": "Selective property search",
+        "search_status": "core",
+        "search_guidance": "Prioritize unusual townhouses, low-rise homes, and strong layouts. Large-building units need to compensate through views, private outdoor space, or other strong features.",
+        "priority_updated": "2026-10-21",
+        "priority_basis": "Owner requested implementation of the area-priority feedback in the map discussion."
       },
       "geometry": {
         "type": "Polygon",
@@ -580,10 +643,10 @@
         "id": "area-e05f73bcfb14",
         "name": "Mount Pleasant / Main St village",
         "source": "vancouver-rental-search-areas-mymaps(1).kml; placemark 10; SHA-256 9198c57c21092dc96ba70253608be313a0ca13c3dc277b2ef11064e65ad6c834",
-        "description": "Category: Core - approved area - Vancouver\nBounds: E 7th Ave south to King Edward Ave (E 25th); Ontario St west to Guelph St east — the Main St corridor\nWhy it fits: The Main St village pocket: walkable, transit-rich (Broadway–City Hall, King Edward stations), house-form side streets and townhouses.\nNote: Core approved area — the village pocket only, not all of Mount Pleasant.",
+        "description": "Current search priority: Search consistently\nSearch status: core\nConsider a better layout, more interior space, and a useful neighbourhood even without water views. East Vancouver remains case-by-case, with the exact street or corner surfaced.\n\nEvaluate each real address: walk to groceries, a useful cafe, a park or waterfront entrance, and useful transit; account for hills. Commute destinations and travel mode are not yet specified. Location fit does not override property must-haves.\n\nOriginal KML notes (historical source; current search guidance above takes precedence):\nCategory: Core - approved area - Vancouver\nBounds: E 7th Ave south to King Edward Ave (E 25th); Ontario St west to Guelph St east — the Main St corridor\nWhy it fits: The Main St village pocket: walkable, transit-rich (Broadway–City Hall, King Edward stations), house-form side streets and townhouses.\nNote: Core approved area — the village pocket only, not all of Mount Pleasant.",
         "source_document": "Vancouver rental search areas - Harald",
         "source_placemark_index": 10,
-        "category": "Core - approved area - Vancouver",
+        "category": "Search consistently",
         "kml_style": {
           "LineStyle": {
             "color": "ff327d2e",
@@ -593,18 +656,25 @@
             "color": "40327d2e"
           }
         },
-        "stroke": "#2e7d32",
+        "stroke": "#2478b4",
         "stroke-opacity": 1.0,
         "stroke-width": 2.0,
         "_umap_options": {
-          "color": "#2e7d32",
+          "color": "#2478b4",
           "opacity": 1.0,
           "weight": 2.0,
-          "fillColor": "#2e7d32",
+          "fillColor": "#2478b4",
           "fillOpacity": 0.25098039215686274
         },
-        "fill": "#2e7d32",
-        "fill-opacity": 0.25098039215686274
+        "fill": "#2478b4",
+        "fill-opacity": 0.25098039215686274,
+        "source_description": "Category: Core - approved area - Vancouver\nBounds: E 7th Ave south to King Edward Ave (E 25th); Ontario St west to Guelph St east — the Main St corridor\nWhy it fits: The Main St village pocket: walkable, transit-rich (Broadway–City Hall, King Edward stations), house-form side streets and townhouses.\nNote: Core approved area — the village pocket only, not all of Mount Pleasant.",
+        "source_category": "Core - approved area - Vancouver",
+        "search_priority": "Search consistently",
+        "search_status": "core",
+        "search_guidance": "Consider a better layout, more interior space, and a useful neighbourhood even without water views. East Vancouver remains case-by-case, with the exact street or corner surfaced.",
+        "priority_updated": "2026-10-21",
+        "priority_basis": "Owner requested implementation of the area-priority feedback in the map discussion."
       },
       "geometry": {
         "type": "Polygon",
@@ -640,10 +710,10 @@
         "id": "area-488ebd148e07",
         "name": "Port Moody — Rocky Point / St Johns corridor",
         "source": "vancouver-rental-search-areas-mymaps(1).kml; placemark 11; SHA-256 9198c57c21092dc96ba70253608be313a0ca13c3dc277b2ef11064e65ad6c834",
-        "description": "Category: Approved exception - Port Moody\nBounds: Burrard Inlet shoreline / Murray St south to St Johns St; just west of Albert St to Ioco Rd east (Rocky Point Park, Moody Centre, Suter Brook)\nWhy it fits: Inlet water views and Rocky Point nature, SkyTrain at Moody Centre/Inlet Centre, village feel on St Johns — the one approved municipality exception (the Albert/St John penthouse pocket).\nNote: Approved exception (2026-10-15). Rest of Port Moody / Tri-Cities is out unless on this corridor.",
+        "description": "Current search priority: Exceptional-home opportunities\nSearch status: approved exception\nKeep for a particularly strong home. Check everyday destinations and actual travel times before committing; an attractive property alone does not establish location fit.\n\nEvaluate each real address: walk to groceries, a useful cafe, a park or waterfront entrance, and useful transit; account for hills. Commute destinations and travel mode are not yet specified. Location fit does not override property must-haves.\n\nOriginal KML notes (historical source; current search guidance above takes precedence):\nCategory: Approved exception - Port Moody\nBounds: Burrard Inlet shoreline / Murray St south to St Johns St; just west of Albert St to Ioco Rd east (Rocky Point Park, Moody Centre, Suter Brook)\nWhy it fits: Inlet water views and Rocky Point nature, SkyTrain at Moody Centre/Inlet Centre, village feel on St Johns — the one approved municipality exception (the Albert/St John penthouse pocket).\nNote: Approved exception (2026-10-15). Rest of Port Moody / Tri-Cities is out unless on this corridor.",
         "source_document": "Vancouver rental search areas - Harald",
         "source_placemark_index": 11,
-        "category": "Approved exception - Port Moody",
+        "category": "Exceptional-home opportunities",
         "kml_style": {
           "LineStyle": {
             "color": "ff8f8300",
@@ -653,18 +723,25 @@
             "color": "408f8300"
           }
         },
-        "stroke": "#00838f",
+        "stroke": "#a66b16",
         "stroke-opacity": 1.0,
         "stroke-width": 2.0,
         "_umap_options": {
-          "color": "#00838f",
+          "color": "#a66b16",
           "opacity": 1.0,
           "weight": 2.0,
-          "fillColor": "#00838f",
+          "fillColor": "#a66b16",
           "fillOpacity": 0.25098039215686274
         },
-        "fill": "#00838f",
-        "fill-opacity": 0.25098039215686274
+        "fill": "#a66b16",
+        "fill-opacity": 0.25098039215686274,
+        "source_description": "Category: Approved exception - Port Moody\nBounds: Burrard Inlet shoreline / Murray St south to St Johns St; just west of Albert St to Ioco Rd east (Rocky Point Park, Moody Centre, Suter Brook)\nWhy it fits: Inlet water views and Rocky Point nature, SkyTrain at Moody Centre/Inlet Centre, village feel on St Johns — the one approved municipality exception (the Albert/St John penthouse pocket).\nNote: Approved exception (2026-10-15). Rest of Port Moody / Tri-Cities is out unless on this corridor.",
+        "source_category": "Approved exception - Port Moody",
+        "search_priority": "Exceptional-home opportunities",
+        "search_status": "approved exception",
+        "search_guidance": "Keep for a particularly strong home. Check everyday destinations and actual travel times before committing; an attractive property alone does not establish location fit.",
+        "priority_updated": "2026-10-21",
+        "priority_basis": "Owner requested implementation of the area-priority feedback in the map discussion."
       },
       "geometry": {
         "type": "Polygon",
@@ -704,10 +781,10 @@
         "id": "area-d9aff2e7e27c",
         "name": "Dollarton west — Northwoods node",
         "source": "vancouver-rental-search-areas-mymaps(1).kml; placemark 12; SHA-256 9198c57c21092dc96ba70253608be313a0ca13c3dc277b2ef11064e65ad6c834",
-        "description": "Category: Case-by-case pocket - North Vancouver (District)\nBounds: Dollarton Hwy / Main St shoreline band, Seymour River west to Rupert St; shore road north to the Mt Seymour Pkwy dip at Riverside\nWhy it fits: Tight pocket around the verified west-end node: Stong's Market (2150 Dollarton) + Starbucks/Tim Hortons, Superstore at Seymour Blvd nearby, inlet frontage, Northwoods townhouse stock.\nNote: Case-by-case pocket, shrunk 2026-10-21 to the walkable node (was one long shore band). The mid-Dollarton stretch east of here was dropped — park frontage and scattered houses with no amenity node within walking distance.",
+        "description": "Current search priority: Nature-focused alternative\nSearch status: case-by-case\nConsider as a deliberate choice toward nature. Require workable walks to groceries and amenities, and useful transport at the times you travel.\n\nEvaluate each real address: walk to groceries, a useful cafe, a park or waterfront entrance, and useful transit; account for hills. Commute destinations and travel mode are not yet specified. Location fit does not override property must-haves.\n\nOriginal KML notes (historical source; current search guidance above takes precedence):\nCategory: Case-by-case pocket - North Vancouver (District)\nBounds: Dollarton Hwy / Main St shoreline band, Seymour River west to Rupert St; shore road north to the Mt Seymour Pkwy dip at Riverside\nWhy it fits: Tight pocket around the verified west-end node: Stong's Market (2150 Dollarton) + Starbucks/Tim Hortons, Superstore at Seymour Blvd nearby, inlet frontage, Northwoods townhouse stock.\nNote: Case-by-case pocket, shrunk 2026-10-21 to the walkable node (was one long shore band). The mid-Dollarton stretch east of here was dropped — park frontage and scattered houses with no amenity node within walking distance.",
         "source_document": "Vancouver rental search areas - Harald",
         "source_placemark_index": 12,
-        "category": "Case-by-case pocket - North Vancouver (District)",
+        "category": "Nature-focused alternative",
         "kml_style": {
           "LineStyle": {
             "color": "ff008fef",
@@ -717,18 +794,25 @@
             "color": "40008fef"
           }
         },
-        "stroke": "#ef8f00",
+        "stroke": "#bc641b",
         "stroke-opacity": 1.0,
         "stroke-width": 2.0,
         "_umap_options": {
-          "color": "#ef8f00",
+          "color": "#bc641b",
           "opacity": 1.0,
           "weight": 2.0,
-          "fillColor": "#ef8f00",
+          "fillColor": "#bc641b",
           "fillOpacity": 0.25098039215686274
         },
-        "fill": "#ef8f00",
-        "fill-opacity": 0.25098039215686274
+        "fill": "#bc641b",
+        "fill-opacity": 0.25098039215686274,
+        "source_description": "Category: Case-by-case pocket - North Vancouver (District)\nBounds: Dollarton Hwy / Main St shoreline band, Seymour River west to Rupert St; shore road north to the Mt Seymour Pkwy dip at Riverside\nWhy it fits: Tight pocket around the verified west-end node: Stong's Market (2150 Dollarton) + Starbucks/Tim Hortons, Superstore at Seymour Blvd nearby, inlet frontage, Northwoods townhouse stock.\nNote: Case-by-case pocket, shrunk 2026-10-21 to the walkable node (was one long shore band). The mid-Dollarton stretch east of here was dropped — park frontage and scattered houses with no amenity node within walking distance.",
+        "source_category": "Case-by-case pocket - North Vancouver (District)",
+        "search_priority": "Nature-focused alternative",
+        "search_status": "case-by-case",
+        "search_guidance": "Consider as a deliberate choice toward nature. Require workable walks to groceries and amenities, and useful transport at the times you travel.",
+        "priority_updated": "2026-10-21",
+        "priority_basis": "Owner requested implementation of the area-priority feedback in the map discussion."
       },
       "geometry": {
         "type": "Polygon",
@@ -772,10 +856,10 @@
         "id": "area-98d71bd76986",
         "name": "Dollarton east — Roche Point / Cates Park",
         "source": "vancouver-rental-search-areas-mymaps(1).kml; placemark 13; SHA-256 9198c57c21092dc96ba70253608be313a0ca13c3dc277b2ef11064e65ad6c834",
-        "description": "Category: Case-by-case pocket - North Vancouver (District)\nBounds: Shore band from Ellis St area east to Banbury Rd / Beachview Dr; Dollarton Hwy inland ~300 m up the slope (Cove Cliff / Roche Point streets)\nWhy it fits: Tight pocket around the verified east-end node: Nesters Market (415 Dollarton Hwy at Deep Cove Rd) + cafés, Cates Park waterfront at the door, inlet views from the slope streets.\nNote: Case-by-case pocket, shrunk 2026-10-21 to the walkable node. Bus along Dollarton to Phibbs; no rapid transit. Corners approximate (shore slope band).",
+        "description": "Current search priority: Nature-focused alternative\nSearch status: case-by-case\nConsider as a deliberate choice toward nature. Require workable walks to groceries and amenities, and useful transport at the times you travel.\n\nEvaluate each real address: walk to groceries, a useful cafe, a park or waterfront entrance, and useful transit; account for hills. Commute destinations and travel mode are not yet specified. Location fit does not override property must-haves.\n\nOriginal KML notes (historical source; current search guidance above takes precedence):\nCategory: Case-by-case pocket - North Vancouver (District)\nBounds: Shore band from Ellis St area east to Banbury Rd / Beachview Dr; Dollarton Hwy inland ~300 m up the slope (Cove Cliff / Roche Point streets)\nWhy it fits: Tight pocket around the verified east-end node: Nesters Market (415 Dollarton Hwy at Deep Cove Rd) + cafés, Cates Park waterfront at the door, inlet views from the slope streets.\nNote: Case-by-case pocket, shrunk 2026-10-21 to the walkable node. Bus along Dollarton to Phibbs; no rapid transit. Corners approximate (shore slope band).",
         "source_document": "Vancouver rental search areas - Harald",
         "source_placemark_index": 13,
-        "category": "Case-by-case pocket - North Vancouver (District)",
+        "category": "Nature-focused alternative",
         "kml_style": {
           "LineStyle": {
             "color": "ff008fef",
@@ -785,18 +869,25 @@
             "color": "40008fef"
           }
         },
-        "stroke": "#ef8f00",
+        "stroke": "#bc641b",
         "stroke-opacity": 1.0,
         "stroke-width": 2.0,
         "_umap_options": {
-          "color": "#ef8f00",
+          "color": "#bc641b",
           "opacity": 1.0,
           "weight": 2.0,
-          "fillColor": "#ef8f00",
+          "fillColor": "#bc641b",
           "fillOpacity": 0.25098039215686274
         },
-        "fill": "#ef8f00",
-        "fill-opacity": 0.25098039215686274
+        "fill": "#bc641b",
+        "fill-opacity": 0.25098039215686274,
+        "source_description": "Category: Case-by-case pocket - North Vancouver (District)\nBounds: Shore band from Ellis St area east to Banbury Rd / Beachview Dr; Dollarton Hwy inland ~300 m up the slope (Cove Cliff / Roche Point streets)\nWhy it fits: Tight pocket around the verified east-end node: Nesters Market (415 Dollarton Hwy at Deep Cove Rd) + cafés, Cates Park waterfront at the door, inlet views from the slope streets.\nNote: Case-by-case pocket, shrunk 2026-10-21 to the walkable node. Bus along Dollarton to Phibbs; no rapid transit. Corners approximate (shore slope band).",
+        "source_category": "Case-by-case pocket - North Vancouver (District)",
+        "search_priority": "Nature-focused alternative",
+        "search_status": "case-by-case",
+        "search_guidance": "Consider as a deliberate choice toward nature. Require workable walks to groceries and amenities, and useful transport at the times you travel.",
+        "priority_updated": "2026-10-21",
+        "priority_basis": "Owner requested implementation of the area-priority feedback in the map discussion."
       },
       "geometry": {
         "type": "Polygon",
@@ -836,10 +927,10 @@
         "id": "area-1e43f327bc37",
         "name": "Seymour — Parkgate Village core",
         "source": "vancouver-rental-search-areas-mymaps(1).kml; placemark 14; SHA-256 9198c57c21092dc96ba70253608be313a0ca13c3dc277b2ef11064e65ad6c834",
-        "description": "Category: Case-by-case pocket - North Vancouver (District)\nBounds: Core block: ~800 m walk around Parkgate Village (Mt Seymour Pkwy & Mt Seymour Rd) — parkway north to below Blueridge, Emerson area west to Banbury side east; plus the Windsor Park lobe south of the parkway down to Dollarton Hwy\nWhy it fits: The east shore's real village: Parkgate Village centre with Safeway, shops and cafés (verified); townhouse stock around the village plus houses; Mt Seymour trailheads minutes north.\nNote: Case-by-case pocket, shrunk 2026-10-21 from a district-wide polygon to the Parkgate walk-shed. North edge kept below the Hwy 1 line — Blueridge/Seymour Heights stay out. Transit: buses on the parkway via Phibbs Exchange.",
+        "description": "Current search priority: Nature-focused alternative\nSearch status: case-by-case\nConsider as a deliberate choice toward nature. Require workable walks to groceries and amenities, and useful transport at the times you travel.\n\nEvaluate each real address: walk to groceries, a useful cafe, a park or waterfront entrance, and useful transit; account for hills. Commute destinations and travel mode are not yet specified. Location fit does not override property must-haves.\n\nOriginal KML notes (historical source; current search guidance above takes precedence):\nCategory: Case-by-case pocket - North Vancouver (District)\nBounds: Core block: ~800 m walk around Parkgate Village (Mt Seymour Pkwy & Mt Seymour Rd) — parkway north to below Blueridge, Emerson area west to Banbury side east; plus the Windsor Park lobe south of the parkway down to Dollarton Hwy\nWhy it fits: The east shore's real village: Parkgate Village centre with Safeway, shops and cafés (verified); townhouse stock around the village plus houses; Mt Seymour trailheads minutes north.\nNote: Case-by-case pocket, shrunk 2026-10-21 from a district-wide polygon to the Parkgate walk-shed. North edge kept below the Hwy 1 line — Blueridge/Seymour Heights stay out. Transit: buses on the parkway via Phibbs Exchange.",
         "source_document": "Vancouver rental search areas - Harald",
         "source_placemark_index": 14,
-        "category": "Case-by-case pocket - North Vancouver (District)",
+        "category": "Nature-focused alternative",
         "kml_style": {
           "LineStyle": {
             "color": "ff008fef",
@@ -849,18 +940,25 @@
             "color": "40008fef"
           }
         },
-        "stroke": "#ef8f00",
+        "stroke": "#bc641b",
         "stroke-opacity": 1.0,
         "stroke-width": 2.0,
         "_umap_options": {
-          "color": "#ef8f00",
+          "color": "#bc641b",
           "opacity": 1.0,
           "weight": 2.0,
-          "fillColor": "#ef8f00",
+          "fillColor": "#bc641b",
           "fillOpacity": 0.25098039215686274
         },
-        "fill": "#ef8f00",
-        "fill-opacity": 0.25098039215686274
+        "fill": "#bc641b",
+        "fill-opacity": 0.25098039215686274,
+        "source_description": "Category: Case-by-case pocket - North Vancouver (District)\nBounds: Core block: ~800 m walk around Parkgate Village (Mt Seymour Pkwy & Mt Seymour Rd) — parkway north to below Blueridge, Emerson area west to Banbury side east; plus the Windsor Park lobe south of the parkway down to Dollarton Hwy\nWhy it fits: The east shore's real village: Parkgate Village centre with Safeway, shops and cafés (verified); townhouse stock around the village plus houses; Mt Seymour trailheads minutes north.\nNote: Case-by-case pocket, shrunk 2026-10-21 from a district-wide polygon to the Parkgate walk-shed. North edge kept below the Hwy 1 line — Blueridge/Seymour Heights stay out. Transit: buses on the parkway via Phibbs Exchange.",
+        "source_category": "Case-by-case pocket - North Vancouver (District)",
+        "search_priority": "Nature-focused alternative",
+        "search_status": "case-by-case",
+        "search_guidance": "Consider as a deliberate choice toward nature. Require workable walks to groceries and amenities, and useful transport at the times you travel.",
+        "priority_updated": "2026-10-21",
+        "priority_basis": "Owner requested implementation of the area-priority feedback in the map discussion."
       },
       "geometry": {
         "type": "Polygon",
@@ -912,10 +1010,10 @@
         "id": "area-bcee61a2d18b",
         "name": "Deep Cove village",
         "source": "vancouver-rental-search-areas-mymaps(1).kml; placemark 15; SHA-256 9198c57c21092dc96ba70253608be313a0ca13c3dc277b2ef11064e65ad6c834",
-        "description": "Category: Case-by-case pocket - North Vancouver (District)\nBounds: Village core only: Deep Cove Rd west to the cove shoreline, ~2 blocks south of Gallant Ave to Panorama Park north — within a ~5–8 min walk of the Gallant Ave shops\nWhy it fits: Village gem: water, kayaking, Quarry Rock trails — the nature/views endgame on the North Shore, trimmed to the walkable village core.\nNote: Case-by-case pocket (added 2026-10-21, trimmed same day), opportunistic only: far east (longest commute), touristy in summer, thin rental supply and houses mostly above your ceiling. Village corners approximate.",
+        "description": "Current search priority: Nature-focused alternative\nSearch status: case-by-case\nConsider as a deliberate choice toward nature. Require workable walks to groceries and amenities, and useful transport at the times you travel.\n\nEvaluate each real address: walk to groceries, a useful cafe, a park or waterfront entrance, and useful transit; account for hills. Commute destinations and travel mode are not yet specified. Location fit does not override property must-haves.\n\nOriginal KML notes (historical source; current search guidance above takes precedence):\nCategory: Case-by-case pocket - North Vancouver (District)\nBounds: Village core only: Deep Cove Rd west to the cove shoreline, ~2 blocks south of Gallant Ave to Panorama Park north — within a ~5–8 min walk of the Gallant Ave shops\nWhy it fits: Village gem: water, kayaking, Quarry Rock trails — the nature/views endgame on the North Shore, trimmed to the walkable village core.\nNote: Case-by-case pocket (added 2026-10-21, trimmed same day), opportunistic only: far east (longest commute), touristy in summer, thin rental supply and houses mostly above your ceiling. Village corners approximate.",
         "source_document": "Vancouver rental search areas - Harald",
         "source_placemark_index": 15,
-        "category": "Case-by-case pocket - North Vancouver (District)",
+        "category": "Nature-focused alternative",
         "kml_style": {
           "LineStyle": {
             "color": "ff008fef",
@@ -925,18 +1023,25 @@
             "color": "40008fef"
           }
         },
-        "stroke": "#ef8f00",
+        "stroke": "#bc641b",
         "stroke-opacity": 1.0,
         "stroke-width": 2.0,
         "_umap_options": {
-          "color": "#ef8f00",
+          "color": "#bc641b",
           "opacity": 1.0,
           "weight": 2.0,
-          "fillColor": "#ef8f00",
+          "fillColor": "#bc641b",
           "fillOpacity": 0.25098039215686274
         },
-        "fill": "#ef8f00",
-        "fill-opacity": 0.25098039215686274
+        "fill": "#bc641b",
+        "fill-opacity": 0.25098039215686274,
+        "source_description": "Category: Case-by-case pocket - North Vancouver (District)\nBounds: Village core only: Deep Cove Rd west to the cove shoreline, ~2 blocks south of Gallant Ave to Panorama Park north — within a ~5–8 min walk of the Gallant Ave shops\nWhy it fits: Village gem: water, kayaking, Quarry Rock trails — the nature/views endgame on the North Shore, trimmed to the walkable village core.\nNote: Case-by-case pocket (added 2026-10-21, trimmed same day), opportunistic only: far east (longest commute), touristy in summer, thin rental supply and houses mostly above your ceiling. Village corners approximate.",
+        "source_category": "Case-by-case pocket - North Vancouver (District)",
+        "search_priority": "Nature-focused alternative",
+        "search_status": "case-by-case",
+        "search_guidance": "Consider as a deliberate choice toward nature. Require workable walks to groceries and amenities, and useful transport at the times you travel.",
+        "priority_updated": "2026-10-21",
+        "priority_basis": "Owner requested implementation of the area-priority feedback in the map discussion."
       },
       "geometry": {
         "type": "Polygon",
@@ -972,10 +1077,10 @@
         "id": "area-38ba62b8eb53",
         "name": "Lynn Valley Town Centre (north of Hwy 1 — exception)",
         "source": "vancouver-rental-search-areas-mymaps(1).kml; placemark 16; SHA-256 9198c57c21092dc96ba70253608be313a0ca13c3dc277b2ef11064e65ad6c834",
-        "description": "Category: North of Hwy 1 - exception pocket - North Vancouver (District)\nBounds: Town-centre core along Lynn Valley Rd: Mountain Hwy / Ross Rd west to Hoskins Rd east, ~E 25th St south to ~E 30th St north (Lynn Valley Centre, main library, Library Lane)\nWhy it fits: The strongest north-of-Hwy-1 exception: a real town centre (Lynn Valley Centre — Save-On-Foods, Shoppers, Winners — plus the main library and the new Bosa town-centre buildings) AND the 240 bus, a Frequent Transit Network route running every ~15 min direct to downtown. Lynn Canyon Park trails ~10 min walk NE.\nNote: Exception pocket (added 2026-10-21 at Harald's direction to test village + transit logic north of Hwy 1). Sits ~1.5–1.9 km north of the highway — the rest of Lynn Valley (e.g. Sunnyhurst, Ailsa Cres) stays out; only this walkable core qualifies.",
+        "description": "Current search priority: Northern exception: case-by-case\nSearch status: case-by-case\nRetain only this named northern pocket as an exception to the south-of-Highway-1 default. Assess the real civic address, walking routes, hills, transit, and the home itself; this is not approval of the surrounding district.\n\nEvaluate each real address: walk to groceries, a useful cafe, a park or waterfront entrance, and useful transit; account for hills. Commute destinations and travel mode are not yet specified. Location fit does not override property must-haves.\n\nOriginal KML notes (historical source; current search guidance above takes precedence):\nCategory: North of Hwy 1 - exception pocket - North Vancouver (District)\nBounds: Town-centre core along Lynn Valley Rd: Mountain Hwy / Ross Rd west to Hoskins Rd east, ~E 25th St south to ~E 30th St north (Lynn Valley Centre, main library, Library Lane)\nWhy it fits: The strongest north-of-Hwy-1 exception: a real town centre (Lynn Valley Centre — Save-On-Foods, Shoppers, Winners — plus the main library and the new Bosa town-centre buildings) AND the 240 bus, a Frequent Transit Network route running every ~15 min direct to downtown. Lynn Canyon Park trails ~10 min walk NE.\nNote: Exception pocket (added 2026-10-21 at Harald's direction to test village + transit logic north of Hwy 1). Sits ~1.5–1.9 km north of the highway — the rest of Lynn Valley (e.g. Sunnyhurst, Ailsa Cres) stays out; only this walkable core qualifies.",
         "source_document": "Vancouver rental search areas - Harald",
         "source_placemark_index": 16,
-        "category": "North of Hwy 1 - exception pocket - North Vancouver (District)",
+        "category": "Northern exception: case-by-case",
         "kml_style": {
           "LineStyle": {
             "color": "ffa21f7b",
@@ -985,18 +1090,25 @@
             "color": "40a21f7b"
           }
         },
-        "stroke": "#7b1fa2",
+        "stroke": "#aa4276",
         "stroke-opacity": 1.0,
         "stroke-width": 2.0,
         "_umap_options": {
-          "color": "#7b1fa2",
+          "color": "#aa4276",
           "opacity": 1.0,
           "weight": 2.0,
-          "fillColor": "#7b1fa2",
+          "fillColor": "#aa4276",
           "fillOpacity": 0.25098039215686274
         },
-        "fill": "#7b1fa2",
-        "fill-opacity": 0.25098039215686274
+        "fill": "#aa4276",
+        "fill-opacity": 0.25098039215686274,
+        "source_description": "Category: North of Hwy 1 - exception pocket - North Vancouver (District)\nBounds: Town-centre core along Lynn Valley Rd: Mountain Hwy / Ross Rd west to Hoskins Rd east, ~E 25th St south to ~E 30th St north (Lynn Valley Centre, main library, Library Lane)\nWhy it fits: The strongest north-of-Hwy-1 exception: a real town centre (Lynn Valley Centre — Save-On-Foods, Shoppers, Winners — plus the main library and the new Bosa town-centre buildings) AND the 240 bus, a Frequent Transit Network route running every ~15 min direct to downtown. Lynn Canyon Park trails ~10 min walk NE.\nNote: Exception pocket (added 2026-10-21 at Harald's direction to test village + transit logic north of Hwy 1). Sits ~1.5–1.9 km north of the highway — the rest of Lynn Valley (e.g. Sunnyhurst, Ailsa Cres) stays out; only this walkable core qualifies.",
+        "source_category": "North of Hwy 1 - exception pocket - North Vancouver (District)",
+        "search_priority": "Northern exception: case-by-case",
+        "search_status": "case-by-case",
+        "search_guidance": "Retain only this named northern pocket as an exception to the south-of-Highway-1 default. Assess the real civic address, walking routes, hills, transit, and the home itself; this is not approval of the surrounding district.",
+        "priority_updated": "2026-10-21",
+        "priority_basis": "Owner requested implementation of the area-priority feedback in the map discussion."
       },
       "geometry": {
         "type": "Polygon",
@@ -1032,10 +1144,10 @@
         "id": "area-6f8ab303b4b7",
         "name": "Edgemont Village (north of Hwy 1 — exception)",
         "source": "vancouver-rental-search-areas-mymaps(1).kml; placemark 17; SHA-256 9198c57c21092dc96ba70253608be313a0ca13c3dc277b2ef11064e65ad6c834",
-        "description": "Category: North of Hwy 1 - exception pocket - North Vancouver (District)\nBounds: Village core around Edgemont Blvd & Highland Blvd: Queens/Ridgewood side west to Highland east, from just above Hwy 1 (Westview) north ~1.2 km to the Woodbine/Norcross streets\nWhy it fits: A verified two-block village (grocery, cafés like Delany's, restaurants, services) with buses 232/246 to Lonsdale Quay, Capilano River trails just west — and only ~600 m north of Hwy 1, the closest exception pocket to the line.\nNote: Exception pocket (added 2026-10-21). Transit is local-bus only (no FTN route) — the village carries it. Premium house prices; rentals here are scarce and often above band.",
+        "description": "Current search priority: Northern exception: case-by-case\nSearch status: case-by-case\nRetain only this named northern pocket as an exception to the south-of-Highway-1 default. Assess the real civic address, walking routes, hills, transit, and the home itself; this is not approval of the surrounding district.\n\nEvaluate each real address: walk to groceries, a useful cafe, a park or waterfront entrance, and useful transit; account for hills. Commute destinations and travel mode are not yet specified. Location fit does not override property must-haves.\n\nOriginal KML notes (historical source; current search guidance above takes precedence):\nCategory: North of Hwy 1 - exception pocket - North Vancouver (District)\nBounds: Village core around Edgemont Blvd & Highland Blvd: Queens/Ridgewood side west to Highland east, from just above Hwy 1 (Westview) north ~1.2 km to the Woodbine/Norcross streets\nWhy it fits: A verified two-block village (grocery, cafés like Delany's, restaurants, services) with buses 232/246 to Lonsdale Quay, Capilano River trails just west — and only ~600 m north of Hwy 1, the closest exception pocket to the line.\nNote: Exception pocket (added 2026-10-21). Transit is local-bus only (no FTN route) — the village carries it. Premium house prices; rentals here are scarce and often above band.",
         "source_document": "Vancouver rental search areas - Harald",
         "source_placemark_index": 17,
-        "category": "North of Hwy 1 - exception pocket - North Vancouver (District)",
+        "category": "Northern exception: case-by-case",
         "kml_style": {
           "LineStyle": {
             "color": "ffa21f7b",
@@ -1045,18 +1157,25 @@
             "color": "40a21f7b"
           }
         },
-        "stroke": "#7b1fa2",
+        "stroke": "#aa4276",
         "stroke-opacity": 1.0,
         "stroke-width": 2.0,
         "_umap_options": {
-          "color": "#7b1fa2",
+          "color": "#aa4276",
           "opacity": 1.0,
           "weight": 2.0,
-          "fillColor": "#7b1fa2",
+          "fillColor": "#aa4276",
           "fillOpacity": 0.25098039215686274
         },
-        "fill": "#7b1fa2",
-        "fill-opacity": 0.25098039215686274
+        "fill": "#aa4276",
+        "fill-opacity": 0.25098039215686274,
+        "source_description": "Category: North of Hwy 1 - exception pocket - North Vancouver (District)\nBounds: Village core around Edgemont Blvd & Highland Blvd: Queens/Ridgewood side west to Highland east, from just above Hwy 1 (Westview) north ~1.2 km to the Woodbine/Norcross streets\nWhy it fits: A verified two-block village (grocery, cafés like Delany's, restaurants, services) with buses 232/246 to Lonsdale Quay, Capilano River trails just west — and only ~600 m north of Hwy 1, the closest exception pocket to the line.\nNote: Exception pocket (added 2026-10-21). Transit is local-bus only (no FTN route) — the village carries it. Premium house prices; rentals here are scarce and often above band.",
+        "source_category": "North of Hwy 1 - exception pocket - North Vancouver (District)",
+        "search_priority": "Northern exception: case-by-case",
+        "search_status": "case-by-case",
+        "search_guidance": "Retain only this named northern pocket as an exception to the south-of-Highway-1 default. Assess the real civic address, walking routes, hills, transit, and the home itself; this is not approval of the surrounding district.",
+        "priority_updated": "2026-10-21",
+        "priority_basis": "Owner requested implementation of the area-priority feedback in the map discussion."
       },
       "geometry": {
         "type": "Polygon",
@@ -1092,10 +1211,10 @@
         "id": "area-840b74ad4458",
         "name": "Upper Lonsdale — Queens corridor (north of Hwy 1 — exception)",
         "source": "vancouver-rental-search-areas-mymaps(1).kml; placemark 18; SHA-256 9198c57c21092dc96ba70253608be313a0ca13c3dc277b2ef11064e65ad6c834",
-        "description": "Category: North of Hwy 1 - exception pocket - North Vancouver (City/District)\nBounds: Lonsdale Ave corridor only, ±~2 blocks: from Hwy 1 (23rd St) north to Queens Rd / 29th St\nWhy it fits: Continuous Lonsdale shops and services the whole way up, and the 230 bus down Lonsdale to the Quay/SeaBus every ~12–15 min — a corridor extension of Central Lonsdale rather than a separate suburb.\nNote: Exception pocket (added 2026-10-21) — the weakest of the three exceptions: it passes on transit + amenities, not on village feel. Only the corridor qualifies; side streets beyond ±2 blocks stay out.",
+        "description": "Current search priority: Northern exception: case-by-case\nSearch status: case-by-case\nRetain only this named northern pocket as an exception to the south-of-Highway-1 default. Assess the real civic address, walking routes, hills, transit, and the home itself; this is not approval of the surrounding district.\n\nEvaluate each real address: walk to groceries, a useful cafe, a park or waterfront entrance, and useful transit; account for hills. Commute destinations and travel mode are not yet specified. Location fit does not override property must-haves.\n\nOriginal KML notes (historical source; current search guidance above takes precedence):\nCategory: North of Hwy 1 - exception pocket - North Vancouver (City/District)\nBounds: Lonsdale Ave corridor only, ±~2 blocks: from Hwy 1 (23rd St) north to Queens Rd / 29th St\nWhy it fits: Continuous Lonsdale shops and services the whole way up, and the 230 bus down Lonsdale to the Quay/SeaBus every ~12–15 min — a corridor extension of Central Lonsdale rather than a separate suburb.\nNote: Exception pocket (added 2026-10-21) — the weakest of the three exceptions: it passes on transit + amenities, not on village feel. Only the corridor qualifies; side streets beyond ±2 blocks stay out.",
         "source_document": "Vancouver rental search areas - Harald",
         "source_placemark_index": 18,
-        "category": "North of Hwy 1 - exception pocket - North Vancouver (City/District)",
+        "category": "Northern exception: case-by-case",
         "kml_style": {
           "LineStyle": {
             "color": "ffa21f7b",
@@ -1105,18 +1224,25 @@
             "color": "40a21f7b"
           }
         },
-        "stroke": "#7b1fa2",
+        "stroke": "#aa4276",
         "stroke-opacity": 1.0,
         "stroke-width": 2.0,
         "_umap_options": {
-          "color": "#7b1fa2",
+          "color": "#aa4276",
           "opacity": 1.0,
           "weight": 2.0,
-          "fillColor": "#7b1fa2",
+          "fillColor": "#aa4276",
           "fillOpacity": 0.25098039215686274
         },
-        "fill": "#7b1fa2",
-        "fill-opacity": 0.25098039215686274
+        "fill": "#aa4276",
+        "fill-opacity": 0.25098039215686274,
+        "source_description": "Category: North of Hwy 1 - exception pocket - North Vancouver (City/District)\nBounds: Lonsdale Ave corridor only, ±~2 blocks: from Hwy 1 (23rd St) north to Queens Rd / 29th St\nWhy it fits: Continuous Lonsdale shops and services the whole way up, and the 230 bus down Lonsdale to the Quay/SeaBus every ~12–15 min — a corridor extension of Central Lonsdale rather than a separate suburb.\nNote: Exception pocket (added 2026-10-21) — the weakest of the three exceptions: it passes on transit + amenities, not on village feel. Only the corridor qualifies; side streets beyond ±2 blocks stay out.",
+        "source_category": "North of Hwy 1 - exception pocket - North Vancouver (City/District)",
+        "search_priority": "Northern exception: case-by-case",
+        "search_status": "case-by-case",
+        "search_guidance": "Retain only this named northern pocket as an exception to the south-of-Highway-1 default. Assess the real civic address, walking routes, hills, transit, and the home itself; this is not approval of the surrounding district.",
+        "priority_updated": "2026-10-21",
+        "priority_basis": "Owner requested implementation of the area-priority feedback in the map discussion."
       },
       "geometry": {
         "type": "Polygon",
@@ -1152,10 +1278,10 @@
         "id": "area-d734556290ac",
         "name": "Commercial Drive corridor (Grandview-Woodland)",
         "source": "vancouver-rental-search-areas-mymaps(1).kml; placemark 19; SHA-256 9198c57c21092dc96ba70253608be313a0ca13c3dc277b2ef11064e65ad6c834",
-        "description": "Category: Case-by-case pocket - Vancouver (East Van)\nBounds: Venables St south to E 12th Ave; Woodland Dr west to Victoria Dr east — centred on Commercial Drive (The Drive)\nWhy it fits: East Van's most walkable village street, SkyTrain at Commercial–Broadway, house-form side streets; several delivered matches cluster here.\nNote: East Van rule: case-by-case, exact street/corner always surfaced. The rest of East Van is not blanket-approved.",
+        "description": "Current search priority: Search consistently\nSearch status: case-by-case\nConsider a better layout, more interior space, and a useful neighbourhood even without water views. East Vancouver remains case-by-case, with the exact street or corner surfaced.\n\nEvaluate each real address: walk to groceries, a useful cafe, a park or waterfront entrance, and useful transit; account for hills. Commute destinations and travel mode are not yet specified. Location fit does not override property must-haves.\n\nOriginal KML notes (historical source; current search guidance above takes precedence):\nCategory: Case-by-case pocket - Vancouver (East Van)\nBounds: Venables St south to E 12th Ave; Woodland Dr west to Victoria Dr east — centred on Commercial Drive (The Drive)\nWhy it fits: East Van's most walkable village street, SkyTrain at Commercial–Broadway, house-form side streets; several delivered matches cluster here.\nNote: East Van rule: case-by-case, exact street/corner always surfaced. The rest of East Van is not blanket-approved.",
         "source_document": "Vancouver rental search areas - Harald",
         "source_placemark_index": 19,
-        "category": "Case-by-case pocket - Vancouver (East Van)",
+        "category": "Search consistently",
         "kml_style": {
           "LineStyle": {
             "color": "ff008fef",
@@ -1165,18 +1291,25 @@
             "color": "40008fef"
           }
         },
-        "stroke": "#ef8f00",
+        "stroke": "#2478b4",
         "stroke-opacity": 1.0,
         "stroke-width": 2.0,
         "_umap_options": {
-          "color": "#ef8f00",
+          "color": "#2478b4",
           "opacity": 1.0,
           "weight": 2.0,
-          "fillColor": "#ef8f00",
+          "fillColor": "#2478b4",
           "fillOpacity": 0.25098039215686274
         },
-        "fill": "#ef8f00",
-        "fill-opacity": 0.25098039215686274
+        "fill": "#2478b4",
+        "fill-opacity": 0.25098039215686274,
+        "source_description": "Category: Case-by-case pocket - Vancouver (East Van)\nBounds: Venables St south to E 12th Ave; Woodland Dr west to Victoria Dr east — centred on Commercial Drive (The Drive)\nWhy it fits: East Van's most walkable village street, SkyTrain at Commercial–Broadway, house-form side streets; several delivered matches cluster here.\nNote: East Van rule: case-by-case, exact street/corner always surfaced. The rest of East Van is not blanket-approved.",
+        "source_category": "Case-by-case pocket - Vancouver (East Van)",
+        "search_priority": "Search consistently",
+        "search_status": "case-by-case",
+        "search_guidance": "Consider a better layout, more interior space, and a useful neighbourhood even without water views. East Vancouver remains case-by-case, with the exact street or corner surfaced.",
+        "priority_updated": "2026-10-21",
+        "priority_basis": "Owner requested implementation of the area-priority feedback in the map discussion."
       },
       "geometry": {
         "type": "Polygon",
@@ -1212,10 +1345,10 @@
         "id": "area-99b725598d08",
         "name": "Trout Lake / John Hendry Park",
         "source": "vancouver-rental-search-areas-mymaps(1).kml; placemark 20; SHA-256 9198c57c21092dc96ba70253608be313a0ca13c3dc277b2ef11064e65ad6c834",
-        "description": "Category: Case-by-case pocket - Vancouver (East Van)\nBounds: E 13th Ave south to E 22nd Ave; Victoria Dr west to Nanaimo St east\nWhy it fits: Trout Lake park nature in the middle of the city, quiet house-form streets, walkable to Commercial Dr and Nanaimo Station.\nNote: East Van rule: case-by-case, exact street/corner always surfaced.",
+        "description": "Current search priority: Search consistently\nSearch status: case-by-case\nConsider a better layout, more interior space, and a useful neighbourhood even without water views. East Vancouver remains case-by-case, with the exact street or corner surfaced.\n\nEvaluate each real address: walk to groceries, a useful cafe, a park or waterfront entrance, and useful transit; account for hills. Commute destinations and travel mode are not yet specified. Location fit does not override property must-haves.\n\nOriginal KML notes (historical source; current search guidance above takes precedence):\nCategory: Case-by-case pocket - Vancouver (East Van)\nBounds: E 13th Ave south to E 22nd Ave; Victoria Dr west to Nanaimo St east\nWhy it fits: Trout Lake park nature in the middle of the city, quiet house-form streets, walkable to Commercial Dr and Nanaimo Station.\nNote: East Van rule: case-by-case, exact street/corner always surfaced.",
         "source_document": "Vancouver rental search areas - Harald",
         "source_placemark_index": 20,
-        "category": "Case-by-case pocket - Vancouver (East Van)",
+        "category": "Search consistently",
         "kml_style": {
           "LineStyle": {
             "color": "ff008fef",
@@ -1225,18 +1358,25 @@
             "color": "40008fef"
           }
         },
-        "stroke": "#ef8f00",
+        "stroke": "#2478b4",
         "stroke-opacity": 1.0,
         "stroke-width": 2.0,
         "_umap_options": {
-          "color": "#ef8f00",
+          "color": "#2478b4",
           "opacity": 1.0,
           "weight": 2.0,
-          "fillColor": "#ef8f00",
+          "fillColor": "#2478b4",
           "fillOpacity": 0.25098039215686274
         },
-        "fill": "#ef8f00",
-        "fill-opacity": 0.25098039215686274
+        "fill": "#2478b4",
+        "fill-opacity": 0.25098039215686274,
+        "source_description": "Category: Case-by-case pocket - Vancouver (East Van)\nBounds: E 13th Ave south to E 22nd Ave; Victoria Dr west to Nanaimo St east\nWhy it fits: Trout Lake park nature in the middle of the city, quiet house-form streets, walkable to Commercial Dr and Nanaimo Station.\nNote: East Van rule: case-by-case, exact street/corner always surfaced.",
+        "source_category": "Case-by-case pocket - Vancouver (East Van)",
+        "search_priority": "Search consistently",
+        "search_status": "case-by-case",
+        "search_guidance": "Consider a better layout, more interior space, and a useful neighbourhood even without water views. East Vancouver remains case-by-case, with the exact street or corner surfaced.",
+        "priority_updated": "2026-10-21",
+        "priority_basis": "Owner requested implementation of the area-priority feedback in the map discussion."
       },
       "geometry": {
         "type": "Polygon",
@@ -1272,10 +1412,10 @@
         "id": "area-a8851ef76ccb",
         "name": "Cambie Village",
         "source": "vancouver-rental-search-areas-mymaps(1).kml; placemark 21; SHA-256 9198c57c21092dc96ba70253608be313a0ca13c3dc277b2ef11064e65ad6c834",
-        "description": "Category: Recommended (Muse) - Vancouver\nBounds: W 16th Ave south to King Edward Ave; Oak St west to Ontario St east — the Cambie St corridor by Queen Elizabeth Park\nWhy it fits: RECOMMENDED: natural southward extension of Fairview — Cambie village shops, QE Park on the east side, King Edward + Oakridge Canada Line stations, quiet house-form streets. Listings here (2888 Cambie, W 20th Ave) already fit your pattern.\nNote: Muse recommendation — not yet in the standing filter; say the word and I'll add it to the sweeps.",
+        "description": "Current search priority: Trial search area\nSearch status: trial\nInclude experimentally for house-form homes and neighbourhood life. Evaluate actual listings before promoting to a core area; water views are not the main attraction.\n\nEvaluate each real address: walk to groceries, a useful cafe, a park or waterfront entrance, and useful transit; account for hills. Commute destinations and travel mode are not yet specified. Location fit does not override property must-haves.\n\nOriginal KML notes (historical source; current search guidance above takes precedence):\nCategory: Recommended (Muse) - Vancouver\nBounds: W 16th Ave south to King Edward Ave; Oak St west to Ontario St east — the Cambie St corridor by Queen Elizabeth Park\nWhy it fits: RECOMMENDED: natural southward extension of Fairview — Cambie village shops, QE Park on the east side, King Edward + Oakridge Canada Line stations, quiet house-form streets. Listings here (2888 Cambie, W 20th Ave) already fit your pattern.\nNote: Muse recommendation — not yet in the standing filter; say the word and I'll add it to the sweeps.",
         "source_document": "Vancouver rental search areas - Harald",
         "source_placemark_index": 21,
-        "category": "Recommended (Muse) - Vancouver",
+        "category": "Trial search area",
         "kml_style": {
           "LineStyle": {
             "color": "ffc06515",
@@ -1285,18 +1425,25 @@
             "color": "40c06515"
           }
         },
-        "stroke": "#1565c0",
+        "stroke": "#008b8b",
         "stroke-opacity": 1.0,
         "stroke-width": 2.0,
         "_umap_options": {
-          "color": "#1565c0",
+          "color": "#008b8b",
           "opacity": 1.0,
           "weight": 2.0,
-          "fillColor": "#1565c0",
+          "fillColor": "#008b8b",
           "fillOpacity": 0.25098039215686274
         },
-        "fill": "#1565c0",
-        "fill-opacity": 0.25098039215686274
+        "fill": "#008b8b",
+        "fill-opacity": 0.25098039215686274,
+        "source_description": "Category: Recommended (Muse) - Vancouver\nBounds: W 16th Ave south to King Edward Ave; Oak St west to Ontario St east — the Cambie St corridor by Queen Elizabeth Park\nWhy it fits: RECOMMENDED: natural southward extension of Fairview — Cambie village shops, QE Park on the east side, King Edward + Oakridge Canada Line stations, quiet house-form streets. Listings here (2888 Cambie, W 20th Ave) already fit your pattern.\nNote: Muse recommendation — not yet in the standing filter; say the word and I'll add it to the sweeps.",
+        "source_category": "Recommended (Muse) - Vancouver",
+        "search_priority": "Trial search area",
+        "search_status": "trial",
+        "search_guidance": "Include experimentally for house-form homes and neighbourhood life. Evaluate actual listings before promoting to a core area; water views are not the main attraction.",
+        "priority_updated": "2026-10-21",
+        "priority_basis": "Owner requested implementation of the area-priority feedback in the map discussion."
       },
       "geometry": {
         "type": "Polygon",
@@ -1332,10 +1479,10 @@
         "id": "area-c513b5c5c503",
         "name": "Riley Park / Main St south",
         "source": "vancouver-rental-search-areas-mymaps(1).kml; placemark 22; SHA-256 9198c57c21092dc96ba70253608be313a0ca13c3dc277b2ef11064e65ad6c834",
-        "description": "Category: Recommended (Muse) - Vancouver\nBounds: King Edward Ave south to E 41st Ave; Ontario St west to Fraser St east — Main St corridor around Queen Elizabeth Park / Nat Bailey\nWhy it fits: RECOMMENDED: continues the Main St village south past King Edward — QE Park (the city's green high point) on the west flank, walkable Main St retail, house-form streets. The Riley at Main & E 32nd already surfaced here as borderline.\nNote: Muse recommendation — not yet in the standing filter.",
+        "description": "Current search priority: Trial search area\nSearch status: trial\nInclude experimentally for house-form homes and neighbourhood life. Evaluate actual listings before promoting to a core area; water views are not the main attraction.\n\nEvaluate each real address: walk to groceries, a useful cafe, a park or waterfront entrance, and useful transit; account for hills. Commute destinations and travel mode are not yet specified. Location fit does not override property must-haves.\n\nOriginal KML notes (historical source; current search guidance above takes precedence):\nCategory: Recommended (Muse) - Vancouver\nBounds: King Edward Ave south to E 41st Ave; Ontario St west to Fraser St east — Main St corridor around Queen Elizabeth Park / Nat Bailey\nWhy it fits: RECOMMENDED: continues the Main St village south past King Edward — QE Park (the city's green high point) on the west flank, walkable Main St retail, house-form streets. The Riley at Main & E 32nd already surfaced here as borderline.\nNote: Muse recommendation — not yet in the standing filter.",
         "source_document": "Vancouver rental search areas - Harald",
         "source_placemark_index": 22,
-        "category": "Recommended (Muse) - Vancouver",
+        "category": "Trial search area",
         "kml_style": {
           "LineStyle": {
             "color": "ffc06515",
@@ -1345,18 +1492,25 @@
             "color": "40c06515"
           }
         },
-        "stroke": "#1565c0",
+        "stroke": "#008b8b",
         "stroke-opacity": 1.0,
         "stroke-width": 2.0,
         "_umap_options": {
-          "color": "#1565c0",
+          "color": "#008b8b",
           "opacity": 1.0,
           "weight": 2.0,
-          "fillColor": "#1565c0",
+          "fillColor": "#008b8b",
           "fillOpacity": 0.25098039215686274
         },
-        "fill": "#1565c0",
-        "fill-opacity": 0.25098039215686274
+        "fill": "#008b8b",
+        "fill-opacity": 0.25098039215686274,
+        "source_description": "Category: Recommended (Muse) - Vancouver\nBounds: King Edward Ave south to E 41st Ave; Ontario St west to Fraser St east — Main St corridor around Queen Elizabeth Park / Nat Bailey\nWhy it fits: RECOMMENDED: continues the Main St village south past King Edward — QE Park (the city's green high point) on the west flank, walkable Main St retail, house-form streets. The Riley at Main & E 32nd already surfaced here as borderline.\nNote: Muse recommendation — not yet in the standing filter.",
+        "source_category": "Recommended (Muse) - Vancouver",
+        "search_priority": "Trial search area",
+        "search_status": "trial",
+        "search_guidance": "Include experimentally for house-form homes and neighbourhood life. Evaluate actual listings before promoting to a core area; water views are not the main attraction.",
+        "priority_updated": "2026-10-21",
+        "priority_basis": "Owner requested implementation of the area-priority feedback in the map discussion."
       },
       "geometry": {
         "type": "Polygon",
@@ -1392,10 +1546,10 @@
         "id": "area-cde7ed1d3e38",
         "name": "Kerrisdale",
         "source": "vancouver-rental-search-areas-mymaps(1).kml; placemark 23; SHA-256 9198c57c21092dc96ba70253608be313a0ca13c3dc277b2ef11064e65ad6c834",
-        "description": "Category: Recommended (Muse) - Vancouver\nBounds: W 41st Ave south to W 57th Ave; West Blvd west to Granville St east — the Kerrisdale village area\nWhy it fits: RECOMMENDED: quiet, leafy, house-form streets around the 41st Ave village (West Blvd), borders Dunbar — same west-side character as your approved areas. Trade-off: rents run higher and transit is bus-only.\nNote: Muse recommendation — previously treated as out-of-area by default; included here for your call.",
+        "description": "Current search priority: Proposed: not activated\nSearch status: proposed\nRetain the original proposal for future consideration. This priority update does not activate Kerrisdale as an approved or trial search area.\n\nEvaluate each real address: walk to groceries, a useful cafe, a park or waterfront entrance, and useful transit; account for hills. Commute destinations and travel mode are not yet specified. Location fit does not override property must-haves.\n\nOriginal KML notes (historical source; current search guidance above takes precedence):\nCategory: Recommended (Muse) - Vancouver\nBounds: W 41st Ave south to W 57th Ave; West Blvd west to Granville St east — the Kerrisdale village area\nWhy it fits: RECOMMENDED: quiet, leafy, house-form streets around the 41st Ave village (West Blvd), borders Dunbar — same west-side character as your approved areas. Trade-off: rents run higher and transit is bus-only.\nNote: Muse recommendation — previously treated as out-of-area by default; included here for your call.",
         "source_document": "Vancouver rental search areas - Harald",
         "source_placemark_index": 23,
-        "category": "Recommended (Muse) - Vancouver",
+        "category": "Proposed: not activated",
         "kml_style": {
           "LineStyle": {
             "color": "ffc06515",
@@ -1405,18 +1559,25 @@
             "color": "40c06515"
           }
         },
-        "stroke": "#1565c0",
+        "stroke": "#757575",
         "stroke-opacity": 1.0,
         "stroke-width": 2.0,
         "_umap_options": {
-          "color": "#1565c0",
+          "color": "#757575",
           "opacity": 1.0,
           "weight": 2.0,
-          "fillColor": "#1565c0",
+          "fillColor": "#757575",
           "fillOpacity": 0.25098039215686274
         },
-        "fill": "#1565c0",
-        "fill-opacity": 0.25098039215686274
+        "fill": "#757575",
+        "fill-opacity": 0.25098039215686274,
+        "source_description": "Category: Recommended (Muse) - Vancouver\nBounds: W 41st Ave south to W 57th Ave; West Blvd west to Granville St east — the Kerrisdale village area\nWhy it fits: RECOMMENDED: quiet, leafy, house-form streets around the 41st Ave village (West Blvd), borders Dunbar — same west-side character as your approved areas. Trade-off: rents run higher and transit is bus-only.\nNote: Muse recommendation — previously treated as out-of-area by default; included here for your call.",
+        "source_category": "Recommended (Muse) - Vancouver",
+        "search_priority": "Proposed: not activated",
+        "search_status": "proposed",
+        "search_guidance": "Retain the original proposal for future consideration. This priority update does not activate Kerrisdale as an approved or trial search area.",
+        "priority_updated": "2026-10-21",
+        "priority_basis": "Owner requested implementation of the area-priority feedback in the map discussion."
       },
       "geometry": {
         "type": "Polygon",
@@ -1452,10 +1613,10 @@
         "id": "area-f1cdb52c91d4",
         "name": "Highway 1 (Trans-Canada) — North Vancouver boundary",
         "source": "vancouver-rental-search-areas-mymaps(1).kml; placemark 24; SHA-256 9198c57c21092dc96ba70253608be313a0ca13c3dc277b2ef11064e65ad6c834",
-        "description": "Category: Boundary line - North Vancouver\nBounds: Highway 1 mainline across North Vancouver, Capilano River to the Ironworkers Memorial Bridge\nWhy it fits: Hard filter line: North Vancouver rentals must be SOUTH of this line.\nNote: Line is approximate (±~150 m); per-listing civic addresses are geocoded against it. Verified points: Lonsdale overpass lat 49.33205; mainline at Ailsa Cres longitude ≈ 49.3286.",
+        "description": "Current search priority: Reference boundary\nSearch status: reference\nSouth of Highway 1 is the default North Vancouver search area, with the named Lynn Valley Town Centre, Edgemont Village, and Upper Lonsdale pockets evaluated case-by-case. This line is approximate; verify real civic addresses and do not treat it as a precise legal or road boundary.\n\nEvaluate each real address: walk to groceries, a useful cafe, a park or waterfront entrance, and useful transit; account for hills. Commute destinations and travel mode are not yet specified. Location fit does not override property must-haves.\n\nOriginal KML notes (historical source; current search guidance above takes precedence):\nCategory: Boundary line - North Vancouver\nBounds: Highway 1 mainline across North Vancouver, Capilano River to the Ironworkers Memorial Bridge\nWhy it fits: Hard filter line: North Vancouver rentals must be SOUTH of this line.\nNote: Line is approximate (±~150 m); per-listing civic addresses are geocoded against it. Verified points: Lonsdale overpass lat 49.33205; mainline at Ailsa Cres longitude ≈ 49.3286.",
         "source_document": "Vancouver rental search areas - Harald",
         "source_placemark_index": 24,
-        "category": "Boundary line - North Vancouver",
+        "category": "Reference boundary",
         "kml_style": {
           "LineStyle": {
             "color": "ff2828c6",
@@ -1469,7 +1630,14 @@
           "color": "#c62828",
           "opacity": 1.0,
           "weight": 2.0
-        }
+        },
+        "source_description": "Category: Boundary line - North Vancouver\nBounds: Highway 1 mainline across North Vancouver, Capilano River to the Ironworkers Memorial Bridge\nWhy it fits: Hard filter line: North Vancouver rentals must be SOUTH of this line.\nNote: Line is approximate (±~150 m); per-listing civic addresses are geocoded against it. Verified points: Lonsdale overpass lat 49.33205; mainline at Ailsa Cres longitude ≈ 49.3286.",
+        "source_category": "Boundary line - North Vancouver",
+        "search_priority": "Reference boundary",
+        "search_status": "reference",
+        "search_guidance": "South of Highway 1 is the default North Vancouver search area, with the named Lynn Valley Town Centre, Edgemont Village, and Upper Lonsdale pockets evaluated case-by-case. This line is approximate; verify real civic addresses and do not treat it as a precise legal or road boundary.",
+        "priority_updated": "2026-10-21",
+        "priority_basis": "Owner requested implementation of the area-priority feedback in the map discussion."
       },
       "geometry": {
         "type": "LineString",
