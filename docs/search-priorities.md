@@ -36,8 +36,9 @@ commute-based ranking. A good location never overrides the property requirements
 `search_priority` controls the displayed search grouping; `search_status` distinguishes
 core, approved exception, case-by-case, trial, proposed, and reference features.
 `search_guidance` explains the practical trade-off. `category` now reflects the current
-priority. The normal `description` popup starts with current guidance, followed by
-clearly labelled historical KML notes. Original descriptions and categories are
+priority. The normal `description` popup contains only three short lines: Good, Bad, and
+Important. Keep history, changelogs, provenance, and editing instructions out of
+area descriptions. Original descriptions and categories are
 preserved in `source_description` and `source_category`; original KML style values
 remain in `kml_style`. Preserve these historical fields on future edits.
 

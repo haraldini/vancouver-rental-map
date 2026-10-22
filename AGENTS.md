@@ -10,3 +10,5 @@
 - Run `python3 scripts/validate_geojson.py` and `python3 -m unittest discover -s tests -v`. These are structural checks, not proof of geographic accuracy or valid polygon topology. Inspect geometry visually too.
 - Report feature counts and IDs added, changed, or removed. Flag unsupported conversion types and metadata loss; never silently drop data.
 - Document new layers and their production raw URLs in README.md. Keep one file per source layer unless the owner approves a different mapping.
+
+- Keep area `description` popups brief: Good, Bad, and Important only. No history, changelog, provenance, or editing instructions in popup text. Preserve original source notes in their separate metadata fields.
