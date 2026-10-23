@@ -71,7 +71,9 @@ of British Columbia, [Open Government Licence - BC](https://www2.gov.bc.ca/gov/c
 
 ## Connect the separate uMap layer
 
-After merge, create a layer named **r/askvan recommendations** and set Remote data:
+The layer **r/askvan recommendations** was created and saved in the existing uMap on 2026-10-23. Its permanent remote source was verified in the saved map export. It was visually previewed with all 12 polygons using the review branch; after switching to the permanent `main` URL, data becomes available when this pull request is merged. Until then, uMap may report that this new remote source cannot be loaded. The existing original layer was retained.
+
+For recreation, set Remote data:
 
 - URL: `https://raw.githubusercontent.com/haraldini/vancouver-rental-map/main/data/askvan-recommendations.geojson`
 - Format: GeoJSON
