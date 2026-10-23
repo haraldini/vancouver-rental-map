@@ -12,7 +12,7 @@ Do this after the relevant map-update pull request is merged to `main`. No uMap 
 
 4. Leave **Dynamic** off for this static file. It fetches the full layer when loading the map. Dynamic mode refetches on map movement; it is not a timer or a GitHub synchronization mechanism. Leave proxy off initially; if the host blocks cross-origin access, try the proxy and account for its cache.
 5. Set layer styling and popup content (for example `{name}` and `{description}` where present), then save the map. Check it in a fresh viewer tab.
-6. Expect 36 area polygons and one Highway 1 line after the redraw reaches `main`. Compare names, counts, boundaries, and styling against the original map. Per-feature `_umap_options` carry the current priority colours; confirm these render as intended on your uMap instance. Keep original layers until that comparison is complete; hide duplicates only when satisfied.
+6. Expect 39 area polygons and one Highway 1 line after the redraw reaches `main`. Compare names, counts, boundaries, and styling against the original map. Per-feature `_umap_options` carry the current priority colours; confirm these render as intended on your uMap instance. Keep original layers until that comparison is complete; hide duplicates only when satisfied.
 
 Repeat for each actual layer file, using `https://raw.githubusercontent.com/haraldini/vancouver-rental-map/main/data/<filename>.geojson`.
 

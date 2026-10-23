@@ -1,0 +1,203 @@
+{
+  "date": "2026-10-23",
+  "anchors": {
+    "c_ne": {
+      "query": "Cambridge St and Grosvenor Ave N, Burnaby",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Cambridge+St+and+Grosvenor+Ave+N%2C+Burnaby%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.984882,
+        49.286316
+      ],
+      "matched_address": "Cambridge St and Grosvenor Ave N, Burnaby, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "89091c40-911f-4305-8a8a-e9805dad3ffb"
+    },
+    "c_nw": {
+      "query": "Cambridge St and Hythe Ave N, Burnaby",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Cambridge+St+and+Hythe+Ave+N%2C+Burnaby%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.9903856,
+        49.2864021
+      ],
+      "matched_address": "Cambridge St and Hythe Ave N, Burnaby, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "a7801d1b-a58d-4132-9e00-fefd1102fd63"
+    },
+    "c_se": {
+      "query": "Dundas St and Grosvenor Ave and Grosvenor Ave N, Burnaby",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Dundas+St+and+Grosvenor+Ave+and+Grosvenor+Ave+N%2C+Burnaby%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.9849173,
+        49.2843984
+      ],
+      "matched_address": "Dundas St and Grosvenor Ave and Grosvenor Ave N, Burnaby, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "564282f5-8515-48b7-a7e6-f27e429b1a7e"
+    },
+    "c_sw": {
+      "query": "Dundas St and Hythe Ave and Hythe Ave N, Burnaby",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Dundas+St+and+Hythe+Ave+and+Hythe+Ave+N%2C+Burnaby%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.990451,
+        49.284505
+      ],
+      "matched_address": "Dundas St and Hythe Ave and Hythe Ave N, Burnaby, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "91a6fb2d-f515-41a5-acb3-630cffceb505"
+    },
+    "cp_ne": {
+      "query": "College Park Way and Oxford Dr, Port Moody",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=College+Park+Way+and+Oxford+Dr%2C+Port+Moody%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.8713425,
+        49.282806
+      ],
+      "matched_address": "College Park Way and Oxford Dr, Port Moody, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "9f67dedd-17a9-4f27-832c-d2d93b41aba5"
+    },
+    "cp_nw": {
+      "query": "Princeton Ave and Oxford Dr, Port Moody",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Princeton+Ave+and+Oxford+Dr%2C+Port+Moody%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.8768289,
+        49.2835522
+      ],
+      "matched_address": "Oxford Dr and Princeton Ave, Port Moody, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "e82aec5e-37dd-4f83-a9a7-4ab992f0a4d6"
+    },
+    "cp_se": {
+      "query": "College Park Way and Cecile Dr, Port Moody",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=College+Park+Way+and+Cecile+Dr%2C+Port+Moody%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.8745158,
+        49.2816727
+      ],
+      "matched_address": "Cecile Dr and College Park Way, Port Moody, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "9cf96f7a-6390-4227-b07d-a9161261a9b8"
+    },
+    "cp_sw": {
+      "query": "Princeton Ave and McMaster Crt, Port Moody",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Princeton+Ave+and+McMaster+Crt%2C+Port+Moody%2C+BC&maxResults=1",
+      "coordinates": [
+        -122.8765784,
+        49.2844557
+      ],
+      "matched_address": "McMaster Crt and Princeton Ave, Port Moody, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "8701c8c3-811e-416a-95bf-776a5cb7d2f0"
+    },
+    "h_ne": {
+      "query": "Oxford St and Penzance Dr and Willingdon Ave N, Burnaby",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Oxford+St+and+Penzance+Dr+and+Willingdon+Ave+N%2C+Burnaby%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.0030436,
+        49.2855138
+      ],
+      "matched_address": "Oxford St and Penzance Dr and Willingdon Ave N, Burnaby, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "7266d4be-11d8-46c4-959c-3fd76597ebac"
+    },
+    "h_nw": {
+      "query": "Carleton Ave N and Oxford St, Burnaby",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Carleton+Ave+N+and+Oxford+St%2C+Burnaby%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.0113144,
+        49.2855728
+      ],
+      "matched_address": "Carleton Ave N and Oxford St, Burnaby, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "e973642c-4a10-4446-8edc-643117913f05"
+    },
+    "h_se": {
+      "query": "Willingdon Ave and Hastings St, Burnaby",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Willingdon+Ave+and+Hastings+St%2C+Burnaby%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.0031213,
+        49.2810157
+      ],
+      "matched_address": "Hastings St and Willingdon Ave, Burnaby, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "6e47b371-def0-4391-9267-3da0a7e12f25"
+    },
+    "h_sw": {
+      "query": "Carleton Ave and Hastings St, Burnaby",
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Carleton+Ave+and+Hastings+St%2C+Burnaby%2C+BC&maxResults=1",
+      "coordinates": [
+        -123.0114084,
+        49.2810437
+      ],
+      "matched_address": "Carleton Ave and Hastings St, Burnaby, BC",
+      "score": 100,
+      "match_precision": "INTERSECTION",
+      "intersection_id": "fcb002be-d061-4dbe-aaa7-c04a7fda66d6"
+    }
+  },
+  "features": [
+    {
+      "id": "area-heights-confederation",
+      "name": "Burnaby Heights / Confederation Park edge",
+      "keys": [
+        "h_nw",
+        "h_ne",
+        "h_se",
+        "h_sw"
+      ],
+      "priority": "Search consistently",
+      "municipality": "Burnaby",
+      "method": "Carleton North/Oxford, Oxford/Penzance/Willingdon North, and Carleton/Willingdon at Hastings. Straight street-to-street envelope west of Confederation Park.",
+      "sources": [
+        "https://www.burnaby.ca/explore-outdoors/parks/confederation-park",
+        "https://www.burnaby.ca/explore-outdoors/walking-hiking-and-biking/trans-canada-trail"
+      ]
+    },
+    {
+      "id": "area-capitol-cambridge",
+      "name": "Capitol Hill / Cambridge ridge",
+      "keys": [
+        "c_nw",
+        "c_ne",
+        "c_se",
+        "c_sw"
+      ],
+      "priority": "Exceptional-home opportunities",
+      "municipality": "Burnaby",
+      "method": "Hythe North/Grosvenor North at Cambridge and Dundas. A compact ridge pocket, not a blanket north-slope or waterfront polygon.",
+      "sources": [
+        "https://www.burnaby.ca/our-city/strategies-and-plans/official-community-plan/community-plans",
+        "https://www.burnaby.ca/explore-outdoors/walking-hiking-and-biking"
+      ]
+    },
+    {
+      "id": "area-college-park-easthill",
+      "name": "College Park / Easthill residential pocket",
+      "keys": [
+        "cp_sw",
+        "cp_ne",
+        "cp_se",
+        "cp_nw"
+      ],
+      "priority": "Exceptional-home opportunities",
+      "municipality": "Port Moody",
+      "method": "Oxford/Princeton, College Park/Oxford, Cecile/College Park, and Princeton/McMaster corners. Straight connecting edges enclose part of the residential hill; they are not park boundaries or measured walking catchments.",
+      "sources": [
+        "https://engage.portmoody.ca/portmoody-2050",
+        "https://www.portmoody.ca/media/ohuizliv/draft-port-moody-2050-official-community-plan-july-15-2025.pdf",
+        "https://pub-portmoody.escribemeetings.com/filestream.ashx?DocumentId=12088"
+      ]
+    }
+  ]
+}
