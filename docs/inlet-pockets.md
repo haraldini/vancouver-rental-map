@@ -53,3 +53,5 @@ Merge the addition and reload the connected uMap layer to load all 40 features.
 `data/inlet-pockets.geojson` mirrors these three main-map additions for independent toggling in uMap. Its unique `inlet-` IDs refer to canonical main-zone IDs via `related_zone_id`. Keep mirrored geometry, notes, and styling synchronized when editing these three pockets. Overlap with a connected full Zones layer is intentional; hide one layer if needed.
 
 Remote source: `https://raw.githubusercontent.com/haraldini/vancouver-rental-map/main/data/inlet-pockets.geojson` (GeoJSON, Dynamic off).
+
+The **Inlet-side pockets** layer was saved in uMap on 2026-10-23 and its permanent main URL was verified in the downloaded map export. Three polygons were visually previewed from the proposal branch. The production URL becomes available on merge; until then it may show a remote-data warning. The existing original and r/askvan layers were retained with unchanged feature data and remote source settings. The original static layer could not be opened for source editing, so this change connects only the new inlet layer.
