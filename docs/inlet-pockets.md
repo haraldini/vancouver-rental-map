@@ -47,3 +47,9 @@ Columbia, [Open Government Licence - BC](https://www2.gov.bc.ca/gov/content/data
 
 The main remote source stays `https://raw.githubusercontent.com/haraldini/vancouver-rental-map/main/data/zones.geojson`.
 Merge the addition and reload the connected uMap layer to load all 40 features.
+
+## Separate viewing layer
+
+`data/inlet-pockets.geojson` mirrors these three main-map additions for independent toggling in uMap. Its unique `inlet-` IDs refer to canonical main-zone IDs via `related_zone_id`. Keep mirrored geometry, notes, and styling synchronized when editing these three pockets. Overlap with a connected full Zones layer is intentional; hide one layer if needed.
+
+Remote source: `https://raw.githubusercontent.com/haraldini/vancouver-rental-map/main/data/inlet-pockets.geojson` (GeoJSON, Dynamic off).

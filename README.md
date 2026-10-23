@@ -18,12 +18,14 @@ The editor link and production URL show `main`. Changes in a pull request appear
 | --- | --- | --- |
 | Zones | [data/zones.geojson](data/zones.geojson) | 39 search pockets + Highway 1 reference |
 | r/askvan recommendations | [data/askvan-recommendations.geojson](data/askvan-recommendations.geojson) | 12 independently toggleable recommendations; [sources and setup](docs/askvan-recommendations.md) |
+| Inlet-side pockets | [data/inlet-pockets.geojson](data/inlet-pockets.geojson) | Three selected inlet-side pockets, separately toggleable; [details](docs/inlet-pockets.md) |
 
 Production remote URLs (configure one uMap layer for each):
 
 ```text
 https://raw.githubusercontent.com/haraldini/vancouver-rental-map/main/data/zones.geojson
 https://raw.githubusercontent.com/haraldini/vancouver-rental-map/main/data/askvan-recommendations.geojson
+https://raw.githubusercontent.com/haraldini/vancouver-rental-map/main/data/inlet-pockets.geojson
 ```
 
 GitHub serves the committed file directly. **No Pages site, build, API key, or deployment account is required.** Merging a pull request to `main` publishes the data at the stable URL. Raw-file and browser caching may delay visibility; reload and verify the raw contents before troubleshooting uMap. This is not live collaboration: geojson.io does not synchronize changes back automatically.
