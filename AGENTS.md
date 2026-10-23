@@ -11,6 +11,6 @@
 - Report feature counts and IDs added, changed, or removed. Flag unsupported conversion types and metadata loss; never silently drop data.
 - Document new layers and their production raw URLs in README.md. Keep one file per source layer unless the owner approves a different mapping.
 
-- Keep area `description` popups brief: Good, Bad, and Important only. No history, changelog, provenance, or editing instructions in popup text. Preserve original source notes in their separate metadata fields.
+- Keep area `description` popups brief: Good and Bad, plus Important only when it adds a concrete caveat. No trial labels, priorities, approval/exception status, search-workflow instructions, history, changelog, provenance, or editing instructions in popup text. Keep search status in its dedicated fields, not the description. Preserve original source notes in their separate metadata fields.
 
 - Current search includes only the three named Coquitlam trial pockets; no blanket Coquitlam approval. Redraws are approximate search outlines. Consult `docs/redraw-2026-10-21.md` and preserve `derived_from` relationships when editing split areas.
