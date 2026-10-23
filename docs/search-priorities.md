@@ -36,9 +36,11 @@ commute-based ranking. A good location never overrides the property requirements
 `search_priority` controls the displayed search grouping; `search_status` distinguishes
 core, approved exception, case-by-case, trial, proposed, and reference features.
 `search_guidance` explains the practical trade-off. `category` now reflects the current
-priority. The normal `description` popup contains only three short lines: Good, Bad, and
-Important. Keep history, changelogs, provenance, and editing instructions out of
-area descriptions. Original descriptions and categories are
+priority. Area `description` popups contain Good and Bad, with an optional Important line
+only for a concrete caveat. Keep trial labels, priorities, approval/exception status,
+search instructions, history, changelogs, provenance, and editing instructions out
+of descriptions. Search status remains in its dedicated fields. The Highway 1
+reference line uses a short factual description. Original descriptions and categories are
 preserved in `source_description` and `source_category`; original KML style values
 remain in `kml_style`. Preserve these historical fields on future edits.
 

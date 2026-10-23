@@ -25,3 +25,7 @@ Open the raw URL: it must return a FeatureCollection, not GitHub's HTML file pag
 For a temporary preview, substitute the pull request's branch name for `main` in a separate test layer. Restore `main` before treating it as production. For an immutable snapshot, substitute a commit SHA.
 
 Reference: [uMap remote-data tutorial](https://discover.umap-project.org/fr/tutorials/10-embed-remote-data/) (the English translation is currently incomplete).
+
+## r/askvan layer
+
+Add a separate remote layer for `data/askvan-recommendations.geojson`; see [the source review and exact setup](askvan-recommendations.md). It contains 12 pink polygons and can be toggled independently. Its popups should use `{name}` and `{description}` so research metadata stays out of the visible area notes.

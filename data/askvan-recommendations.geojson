@@ -1,0 +1,752 @@
+{
+  "type": "FeatureCollection",
+  "name": "r/askvan recommendations",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "askvan-lower-lonsdale",
+        "name": "Lower Lonsdale",
+        "description": "Good: Waterfront amenities, SeaBus, and potential views.\nBad: House-form options require a careful search; bridge trips can be inconvenient.",
+        "source": "https://www.reddit.com/r/askvan/comments/1ufd274/which_vancouver_neighbourhood_fits_my_lifestyle/",
+        "recommendation_sources": [
+          "https://www.reddit.com/r/askvan/comments/1ufd274/which_vancouver_neighbourhood_fits_my_lifestyle/",
+          "https://www.reddit.com/r/askvan/comments/1xc17df/opinions_on_these_neighborhoods/"
+        ],
+        "reviewed_on": "2026-10-23",
+        "layer": "r/askvan recommendations",
+        "evidence_type": "Selected resident anecdotes; editorial fit assessment",
+        "fit_rationale": "Comments recommend the Quay/SeaBus lifestyle. Strong fit for water access and walkability; housing form still needs screening.",
+        "rent_fit": "Not established; check individual listings against owner requirements.",
+        "geometry_source": "Reused approximate outline from data/zones.geojson; see related_zone_id.",
+        "boundary_accuracy": "Approximate search outline; not a measured walking catchment or an official neighbourhood boundary.",
+        "stroke": "#c0267e",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#c0267e",
+        "fill-opacity": 0.12,
+        "_umap_options": {
+          "color": "#c0267e",
+          "weight": 3,
+          "opacity": 1,
+          "fillColor": "#c0267e",
+          "fillOpacity": 0.12
+        },
+        "related_zone_id": "area-bca94b349e5a"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -123.08257,
+              49.31238
+            ],
+            [
+              -123.07333,
+              49.30851
+            ],
+            [
+              -123.06753,
+              49.31416
+            ],
+            [
+              -123.0826,
+              49.3185
+            ],
+            [
+              -123.08257,
+              49.31238
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "askvan-kits-beach",
+        "name": "Kits beach-side / Kits Point",
+        "description": "Good: Beach access, shops, and active neighbourhood life.\nBad: Busy streets; older homes may lack private laundry.",
+        "source": "https://www.reddit.com/r/askvan/comments/1ufd274/which_vancouver_neighbourhood_fits_my_lifestyle/",
+        "recommendation_sources": [
+          "https://www.reddit.com/r/askvan/comments/1ufd274/which_vancouver_neighbourhood_fits_my_lifestyle/",
+          "https://www.reddit.com/r/askvan/comments/1fqhf2c/opinions_on_mount_pleasant_fairview_west_end/"
+        ],
+        "reviewed_on": "2026-10-23",
+        "layer": "r/askvan recommendations",
+        "evidence_type": "Selected resident anecdotes; editorial fit assessment",
+        "fit_rationale": "Repeated beach/walkability recommendations; no inference that a qualifying large rental is available.",
+        "rent_fit": "Not established; check individual listings against owner requirements.",
+        "geometry_source": "Reused approximate outline from data/zones.geojson; see related_zone_id.",
+        "boundary_accuracy": "Approximate search outline; not a measured walking catchment or an official neighbourhood boundary.",
+        "stroke": "#c0267e",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#c0267e",
+        "fill-opacity": 0.12,
+        "_umap_options": {
+          "color": "#c0267e",
+          "weight": 3,
+          "opacity": 1,
+          "fillColor": "#c0267e",
+          "fillOpacity": 0.12
+        },
+        "related_zone_id": "area-055e9f3a380b"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -123.185574,
+              49.2722747
+            ],
+            [
+              -123.1856866,
+              49.2686073
+            ],
+            [
+              -123.1456404,
+              49.2680059
+            ],
+            [
+              -123.1450927,
+              49.2724
+            ],
+            [
+              -123.1463402,
+              49.2724445
+            ],
+            [
+              -123.1462176,
+              49.2753053
+            ],
+            [
+              -123.1518585,
+              49.2754128
+            ],
+            [
+              -123.1526019,
+              49.2725493
+            ],
+            [
+              -123.1641321,
+              49.2735689
+            ],
+            [
+              -123.185574,
+              49.2722747
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "askvan-mount-pleasant",
+        "name": "Mount Pleasant / Main village",
+        "description": "Good: Walkable food, shops, and house-form side streets.\nBad: Arterial traffic; convenience drops away from the main streets.",
+        "source": "https://www.reddit.com/r/askvan/comments/1fqhf2c/opinions_on_mount_pleasant_fairview_west_end/",
+        "recommendation_sources": [
+          "https://www.reddit.com/r/askvan/comments/1fqhf2c/opinions_on_mount_pleasant_fairview_west_end/",
+          "https://www.reddit.com/r/askvan/comments/1xc17df/opinions_on_these_neighborhoods/"
+        ],
+        "reviewed_on": "2026-10-23",
+        "layer": "r/askvan recommendations",
+        "evidence_type": "Selected resident anecdotes; editorial fit assessment",
+        "fit_rationale": "Resident recommendations around Main and nearby parks fit everyday walkability; no water-view advantage assumed.",
+        "rent_fit": "Not established; check individual listings against owner requirements.",
+        "geometry_source": "Reused approximate outline from data/zones.geojson; see related_zone_id.",
+        "boundary_accuracy": "Approximate search outline; not a measured walking catchment or an official neighbourhood boundary.",
+        "stroke": "#c0267e",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#c0267e",
+        "fill-opacity": 0.12,
+        "_umap_options": {
+          "color": "#c0267e",
+          "weight": 3,
+          "opacity": 1,
+          "fillColor": "#c0267e",
+          "fillOpacity": 0.12
+        },
+        "related_zone_id": "area-e05f73bcfb14"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -123.10485,
+              49.26469
+            ],
+            [
+              -123.09485,
+              49.26443
+            ],
+            [
+              -123.09485,
+              49.2487
+            ],
+            [
+              -123.10499,
+              49.24885
+            ],
+            [
+              -123.10485,
+              49.26469
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "askvan-commercial-drive",
+        "name": "Commercial Drive village",
+        "description": "Good: Neighbourhood shops, community feel, and house-form streets.\nBad: Busy main roads; transit walks vary by block.",
+        "source": "https://www.reddit.com/r/askvan/comments/1fqhf2c/opinions_on_mount_pleasant_fairview_west_end/",
+        "recommendation_sources": [
+          "https://www.reddit.com/r/askvan/comments/1fqhf2c/opinions_on_mount_pleasant_fairview_west_end/",
+          "https://www.reddit.com/r/askvan/comments/1vfojhq/neighbourhood_recommendation_for_young_couple/"
+        ],
+        "reviewed_on": "2026-10-23",
+        "layer": "r/askvan recommendations",
+        "evidence_type": "Selected resident anecdotes; editorial fit assessment",
+        "fit_rationale": "Commercial/Grandview receives direct recommendations; suits village amenities and house-form preference.",
+        "rent_fit": "Not established; check individual listings against owner requirements.",
+        "geometry_source": "Reused approximate outline from data/zones.geojson; see related_zone_id.",
+        "boundary_accuracy": "Approximate search outline; not a measured walking catchment or an official neighbourhood boundary.",
+        "stroke": "#c0267e",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#c0267e",
+        "fill-opacity": 0.12,
+        "_umap_options": {
+          "color": "#c0267e",
+          "weight": 3,
+          "opacity": 1,
+          "fillColor": "#c0267e",
+          "fillOpacity": 0.12
+        },
+        "related_zone_id": "area-d734556290ac"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -123.07365,
+              49.27667
+            ],
+            [
+              -123.06596,
+              49.27667
+            ],
+            [
+              -123.06596,
+              49.25956
+            ],
+            [
+              -123.07365,
+              49.2596
+            ],
+            [
+              -123.07365,
+              49.27667
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "askvan-hastings-sunrise",
+        "name": "Hastings-Sunrise village",
+        "description": "Good: Independent shops, residential streets, and nearby parks.\nBad: No neighbourhood SkyTrain station; arterial and event noise varies.",
+        "source": "https://www.reddit.com/r/askvan/comments/1qf138t/need_help_convincing_my_partner_of_housing/",
+        "recommendation_sources": [
+          "https://www.reddit.com/r/askvan/comments/1qf138t/need_help_convincing_my_partner_of_housing/",
+          "https://www.reddit.com/r/askvan/comments/1vfojhq/neighbourhood_recommendation_for_young_couple/"
+        ],
+        "reviewed_on": "2026-10-23",
+        "layer": "r/askvan recommendations",
+        "evidence_type": "Selected resident anecdotes; editorial fit assessment",
+        "fit_rationale": "Resident posts praise amenities and community while describing transit and grocery trade-offs. Park access is address-specific.",
+        "rent_fit": "Not established; check individual listings against owner requirements.",
+        "geometry_source": "Reused approximate outline from data/zones.geojson; see related_zone_id.",
+        "boundary_accuracy": "Approximate search outline; not a measured walking catchment or an official neighbourhood boundary.",
+        "stroke": "#c0267e",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#c0267e",
+        "fill-opacity": 0.12,
+        "_umap_options": {
+          "color": "#c0267e",
+          "weight": 3,
+          "opacity": 1,
+          "fillColor": "#c0267e",
+          "fillOpacity": 0.12
+        },
+        "related_zone_id": "area-hastings-sunrise-trial"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -123.0565044,
+              49.2875327
+            ],
+            [
+              -123.0565485,
+              49.2802347
+            ],
+            [
+              -123.0440783,
+              49.2802065
+            ],
+            [
+              -123.0440335,
+              49.2876996
+            ],
+            [
+              -123.0565044,
+              49.2875327
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "askvan-olympic-village",
+        "name": "Olympic Village",
+        "description": "Good: Seawall, central location, and useful transit.\nBad: Large-building housing is a weaker match; space needs checking.",
+        "source": "https://www.reddit.com/r/askvan/comments/1xc17df/opinions_on_these_neighborhoods/",
+        "recommendation_sources": [
+          "https://www.reddit.com/r/askvan/comments/1xc17df/opinions_on_these_neighborhoods/"
+        ],
+        "reviewed_on": "2026-10-23",
+        "layer": "r/askvan recommendations",
+        "evidence_type": "Selected resident anecdotes; editorial fit assessment",
+        "fit_rationale": "Recommended for centrality and walkability. Included as a weaker housing-form fit, not as proof of qualifying supply.",
+        "rent_fit": "Not established; check individual listings against owner requirements.",
+        "geometry_source": "Reused approximate outline from data/zones.geojson; see related_zone_id.",
+        "boundary_accuracy": "Approximate search outline; not a measured walking catchment or an official neighbourhood boundary.",
+        "stroke": "#c0267e",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#c0267e",
+        "fill-opacity": 0.12,
+        "_umap_options": {
+          "color": "#c0267e",
+          "weight": 3,
+          "opacity": 1,
+          "fillColor": "#c0267e",
+          "fillOpacity": 0.12
+        },
+        "related_zone_id": "area-bed470b894ba"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -123.1149,
+              49.2685
+            ],
+            [
+              -123.10071,
+              49.26908
+            ],
+            [
+              -123.1008,
+              49.2655
+            ],
+            [
+              -123.11472,
+              49.26533
+            ],
+            [
+              -123.1149,
+              49.2685
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "askvan-moody-centre",
+        "name": "Moody Centre / Rocky Point",
+        "description": "Good: Inlet parks, village amenities, and rail access.\nBad: Longer trips into Vancouver; road and rail exposure varies.",
+        "source": "https://www.reddit.com/r/askvan/comments/1q5qxo5/priced_out_of_city_of_vancouver_best_place_to/",
+        "recommendation_sources": [
+          "https://www.reddit.com/r/askvan/comments/1q5qxo5/priced_out_of_city_of_vancouver_best_place_to/"
+        ],
+        "reviewed_on": "2026-10-23",
+        "layer": "r/askvan recommendations",
+        "evidence_type": "Selected resident anecdotes; editorial fit assessment",
+        "fit_rationale": "Port Moody is recommended for nature and community; this existing park/station pocket is the editorial geographic selection.",
+        "rent_fit": "Not established; check individual listings against owner requirements.",
+        "geometry_source": "Reused approximate outline from data/zones.geojson; see related_zone_id.",
+        "boundary_accuracy": "Approximate search outline; not a measured walking catchment or an official neighbourhood boundary.",
+        "stroke": "#c0267e",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#c0267e",
+        "fill-opacity": 0.12,
+        "_umap_options": {
+          "color": "#c0267e",
+          "weight": 3,
+          "opacity": 1,
+          "fillColor": "#c0267e",
+          "fillOpacity": 0.12
+        },
+        "related_zone_id": "area-488ebd148e07"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.8668085,
+              49.2777108
+            ],
+            [
+              -122.8668085,
+              49.2766852
+            ],
+            [
+              -122.850175,
+              49.2766852
+            ],
+            [
+              -122.8413927,
+              49.2766231
+            ],
+            [
+              -122.8413529,
+              49.2788219
+            ],
+            [
+              -122.850139,
+              49.2788742
+            ],
+            [
+              -122.8668085,
+              49.2777108
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "askvan-burquitlam",
+        "name": "Burquitlam station pocket",
+        "description": "Good: SkyTrain access and nearby residential pockets.\nBad: Construction and tower-heavy streets; longer Vancouver journeys.",
+        "source": "https://www.reddit.com/r/askvan/comments/1q5qxo5/priced_out_of_city_of_vancouver_best_place_to/",
+        "recommendation_sources": [
+          "https://www.reddit.com/r/askvan/comments/1q5qxo5/priced_out_of_city_of_vancouver_best_place_to/",
+          "https://www.reddit.com/r/askvan/comments/1nqawrp/buying_a_townhouse_in_lower_mainland/"
+        ],
+        "reviewed_on": "2026-10-23",
+        "layer": "r/askvan recommendations",
+        "evidence_type": "Selected resident anecdotes; editorial fit assessment",
+        "fit_rationale": "Burquitlam is directly recommended for transit and access to green space; source anecdotes do not establish commute times or rental prices.",
+        "rent_fit": "Not established; check individual listings against owner requirements.",
+        "geometry_source": "Reused approximate outline from data/zones.geojson; see related_zone_id.",
+        "boundary_accuracy": "Approximate search outline; not a measured walking catchment or an official neighbourhood boundary.",
+        "stroke": "#c0267e",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#c0267e",
+        "fill-opacity": 0.12,
+        "_umap_options": {
+          "color": "#c0267e",
+          "weight": 3,
+          "opacity": 1,
+          "fillColor": "#c0267e",
+          "fillOpacity": 0.12
+        },
+        "related_zone_id": "area-burquitlam-trial"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.8835164,
+              49.2634466
+            ],
+            [
+              -122.89316920491282,
+              49.2634466
+            ],
+            [
+              -122.89299688412365,
+              49.25852524859899
+            ],
+            [
+              -122.89296360947182,
+              49.2568059
+            ],
+            [
+              -122.8835164,
+              49.2568059
+            ],
+            [
+              -122.8835164,
+              49.2634466
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "askvan-champlain-heights",
+        "name": "Champlain Heights / Everett Crowley",
+        "description": "Good: Townhouse clusters, wooded paths, and large parks.\nBad: Older interiors; errands and transit vary across the pocket.",
+        "source": "https://www.reddit.com/r/askvan/comments/1vfojhq/neighbourhood_recommendation_for_young_couple/",
+        "recommendation_sources": [
+          "https://www.reddit.com/r/askvan/comments/1vfojhq/neighbourhood_recommendation_for_young_couple/",
+          "https://www.reddit.com/r/askvan/comments/1nqawrp/buying_a_townhouse_in_lower_mainland/"
+        ],
+        "reviewed_on": "2026-10-23",
+        "layer": "r/askvan recommendations",
+        "evidence_type": "Selected resident anecdotes; editorial fit assessment",
+        "fit_rationale": "A resident recommends its parks and townhouse/low-rise form; other comments describe spacious older homes. Purchasing/leasehold claims were not translated into rental savings.",
+        "rent_fit": "Not established; check individual listings against owner requirements.",
+        "geometry_source": "Kerr/E 54th, Boundary/SE Marine and Kerr/SE Marine anchors. Northeast projects Boundary longitude to E 54th latitude; not a claimed intersection. Approximate park/residential envelope.",
+        "boundary_accuracy": "Approximate search outline; not a measured walking catchment or an official neighbourhood boundary.",
+        "stroke": "#c0267e",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#c0267e",
+        "fill-opacity": 0.12,
+        "_umap_options": {
+          "color": "#c0267e",
+          "weight": 3,
+          "opacity": 1,
+          "fillColor": "#c0267e",
+          "fillOpacity": 0.12
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -123.0412798,
+              49.2201836
+            ],
+            [
+              -123.042259,
+              49.2081639
+            ],
+            [
+              -123.0236864,
+              49.2081736
+            ],
+            [
+              -123.0236864,
+              49.2201836
+            ],
+            [
+              -123.0412798,
+              49.2201836
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "askvan-fraserview-riverfront",
+        "name": "Fraserview riverfront west of Kerr",
+        "description": "Good: River walks, potential views, and older townhouse options.\nBad: Dated interiors and less convenient trips to the rest of Vancouver.",
+        "source": "https://www.reddit.com/r/askvan/comments/1nqawrp/buying_a_townhouse_in_lower_mainland/",
+        "recommendation_sources": [
+          "https://www.reddit.com/r/askvan/comments/1nqawrp/buying_a_townhouse_in_lower_mainland/",
+          "https://www.reddit.com/r/askvan/comments/1q5qxo5/priced_out_of_city_of_vancouver_best_place_to/",
+          "https://www.reddit.com/r/askvan/comments/1xc17df/opinions_on_these_neighborhoods/"
+        ],
+        "reviewed_on": "2026-10-23",
+        "layer": "r/askvan recommendations",
+        "evidence_type": "Selected resident anecdotes; editorial fit assessment",
+        "fit_rationale": "Residents mention river walks and larger older townhomes west of Kerr; recent discussion adds social/commute inconvenience. Exact unit condition and rent remain unverified.",
+        "rent_fit": "Not established; check individual listings against owner requirements.",
+        "geometry_source": "Victoria/Kerr intersections with SE Marine Drive and East Kent Avenue South. Straight edges approximate the residential strip; no riverfront access guarantee.",
+        "boundary_accuracy": "Approximate search outline; not a measured walking catchment or an official neighbourhood boundary.",
+        "stroke": "#c0267e",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#c0267e",
+        "fill-opacity": 0.12,
+        "_umap_options": {
+          "color": "#c0267e",
+          "weight": 3,
+          "opacity": 1,
+          "fillColor": "#c0267e",
+          "fillOpacity": 0.12
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -123.0661103,
+              49.2097343
+            ],
+            [
+              -123.0661632,
+              49.2072233
+            ],
+            [
+              -123.042272,
+              49.2065414
+            ],
+            [
+              -123.042259,
+              49.2081639
+            ],
+            [
+              -123.0661103,
+              49.2097343
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "askvan-river-district",
+        "name": "River District / East Fraser Lands",
+        "description": "Good: Riverfront walks, newer homes, and local shops.\nBad: Many apartments; newer townhouse interiors can be compact. Transit is less direct.",
+        "source": "https://www.reddit.com/r/askvan/comments/1nqawrp/buying_a_townhouse_in_lower_mainland/",
+        "recommendation_sources": [
+          "https://www.reddit.com/r/askvan/comments/1nqawrp/buying_a_townhouse_in_lower_mainland/",
+          "https://www.reddit.com/r/askvan/comments/1q5qxo5/priced_out_of_city_of_vancouver_best_place_to/"
+        ],
+        "reviewed_on": "2026-10-23",
+        "layer": "r/askvan recommendations",
+        "evidence_type": "Selected resident anecdotes; editorial fit assessment",
+        "fit_rationale": "Residents recommend river walks and townhomes but distinguish newer smaller units from the older stock west of Kerr. Official city context confirms Kerr-to-Boundary location.",
+        "rent_fit": "Not established; check individual listings against owner requirements.",
+        "geometry_source": "Kerr/Boundary intersections at SE Marine Drive and East Kent Avenue South. Approximate residential search strip, not the entire official East Fraser Lands boundary.",
+        "boundary_accuracy": "Approximate search outline; not a measured walking catchment or an official neighbourhood boundary.",
+        "stroke": "#c0267e",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#c0267e",
+        "fill-opacity": 0.12,
+        "_umap_options": {
+          "color": "#c0267e",
+          "weight": 3,
+          "opacity": 1,
+          "fillColor": "#c0267e",
+          "fillOpacity": 0.12
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -123.042259,
+              49.2081639
+            ],
+            [
+              -123.042272,
+              49.2065414
+            ],
+            [
+              -123.0234002,
+              49.2039609
+            ],
+            [
+              -123.0236864,
+              49.2081736
+            ],
+            [
+              -123.042259,
+              49.2081639
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "askvan-marpole-village",
+        "name": "Marpole village residential pocket",
+        "description": "Good: Duplex and townhouse possibilities near Granville shops.\nBad: Bridge traffic and arterial noise; park and transit access depend on the address.",
+        "source": "https://www.reddit.com/r/askvan/comments/1nqawrp/buying_a_townhouse_in_lower_mainland/",
+        "recommendation_sources": [
+          "https://www.reddit.com/r/askvan/comments/1nqawrp/buying_a_townhouse_in_lower_mainland/"
+        ],
+        "reviewed_on": "2026-10-23",
+        "layer": "r/askvan recommendations",
+        "evidence_type": "Selected resident anecdotes; editorial fit assessment",
+        "fit_rationale": "Suggested for duplexes/townhouses and usable space. This is a weaker, single-thread lead; no purchase-price claims or generic affordability promise carried into rental notes.",
+        "rent_fit": "Not established; check individual listings against owner requirements.",
+        "geometry_source": "Granville/W 63rd and Granville/Oak W 70th anchors; northeast projects Oak/W 70th longitude to W 63rd latitude. Not an asserted Oak/W 63rd intersection.",
+        "boundary_accuracy": "Approximate search outline; not a measured walking catchment or an official neighbourhood boundary.",
+        "stroke": "#c0267e",
+        "stroke-width": 3,
+        "stroke-opacity": 1,
+        "fill": "#c0267e",
+        "fill-opacity": 0.12,
+        "_umap_options": {
+          "color": "#c0267e",
+          "weight": 3,
+          "opacity": 1,
+          "fillColor": "#c0267e",
+          "fillOpacity": 0.12
+        }
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -123.1403555,
+              49.213998
+            ],
+            [
+              -123.140534,
+              49.2085349
+            ],
+            [
+              -123.1302583,
+              49.2084572
+            ],
+            [
+              -123.1302583,
+              49.213998
+            ],
+            [
+              -123.1403555,
+              49.213998
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,298 @@
+{
+  "reviewed_on": "2026-10-23",
+  "subreddit": "https://www.reddit.com/r/askvan/",
+  "selection": "Editorial shortlist against owner preferences; not a representative survey or vote ranking.",
+  "features": [
+    {
+      "id": "askvan-lower-lonsdale",
+      "name": "Lower Lonsdale",
+      "sources": [
+        "https://www.reddit.com/r/askvan/comments/1ufd274/which_vancouver_neighbourhood_fits_my_lifestyle/",
+        "https://www.reddit.com/r/askvan/comments/1xc17df/opinions_on_these_neighborhoods/"
+      ],
+      "assessment": "Comments recommend the Quay/SeaBus lifestyle. Strong fit for water access and walkability; housing form still needs screening.",
+      "related_zone_id": "area-bca94b349e5a",
+      "geometry_method": "Reused approximate outline from data/zones.geojson; see related_zone_id."
+    },
+    {
+      "id": "askvan-kits-beach",
+      "name": "Kits beach-side / Kits Point",
+      "sources": [
+        "https://www.reddit.com/r/askvan/comments/1ufd274/which_vancouver_neighbourhood_fits_my_lifestyle/",
+        "https://www.reddit.com/r/askvan/comments/1fqhf2c/opinions_on_mount_pleasant_fairview_west_end/"
+      ],
+      "assessment": "Repeated beach/walkability recommendations; no inference that a qualifying large rental is available.",
+      "related_zone_id": "area-055e9f3a380b",
+      "geometry_method": "Reused approximate outline from data/zones.geojson; see related_zone_id."
+    },
+    {
+      "id": "askvan-mount-pleasant",
+      "name": "Mount Pleasant / Main village",
+      "sources": [
+        "https://www.reddit.com/r/askvan/comments/1fqhf2c/opinions_on_mount_pleasant_fairview_west_end/",
+        "https://www.reddit.com/r/askvan/comments/1xc17df/opinions_on_these_neighborhoods/"
+      ],
+      "assessment": "Resident recommendations around Main and nearby parks fit everyday walkability; no water-view advantage assumed.",
+      "related_zone_id": "area-e05f73bcfb14",
+      "geometry_method": "Reused approximate outline from data/zones.geojson; see related_zone_id."
+    },
+    {
+      "id": "askvan-commercial-drive",
+      "name": "Commercial Drive village",
+      "sources": [
+        "https://www.reddit.com/r/askvan/comments/1fqhf2c/opinions_on_mount_pleasant_fairview_west_end/",
+        "https://www.reddit.com/r/askvan/comments/1vfojhq/neighbourhood_recommendation_for_young_couple/"
+      ],
+      "assessment": "Commercial/Grandview receives direct recommendations; suits village amenities and house-form preference.",
+      "related_zone_id": "area-d734556290ac",
+      "geometry_method": "Reused approximate outline from data/zones.geojson; see related_zone_id."
+    },
+    {
+      "id": "askvan-hastings-sunrise",
+      "name": "Hastings-Sunrise village",
+      "sources": [
+        "https://www.reddit.com/r/askvan/comments/1qf138t/need_help_convincing_my_partner_of_housing/",
+        "https://www.reddit.com/r/askvan/comments/1vfojhq/neighbourhood_recommendation_for_young_couple/"
+      ],
+      "assessment": "Resident posts praise amenities and community while describing transit and grocery trade-offs. Park access is address-specific.",
+      "related_zone_id": "area-hastings-sunrise-trial",
+      "geometry_method": "Reused approximate outline from data/zones.geojson; see related_zone_id."
+    },
+    {
+      "id": "askvan-olympic-village",
+      "name": "Olympic Village",
+      "sources": [
+        "https://www.reddit.com/r/askvan/comments/1xc17df/opinions_on_these_neighborhoods/"
+      ],
+      "assessment": "Recommended for centrality and walkability. Included as a weaker housing-form fit, not as proof of qualifying supply.",
+      "related_zone_id": "area-bed470b894ba",
+      "geometry_method": "Reused approximate outline from data/zones.geojson; see related_zone_id."
+    },
+    {
+      "id": "askvan-moody-centre",
+      "name": "Moody Centre / Rocky Point",
+      "sources": [
+        "https://www.reddit.com/r/askvan/comments/1q5qxo5/priced_out_of_city_of_vancouver_best_place_to/"
+      ],
+      "assessment": "Port Moody is recommended for nature and community; this existing park/station pocket is the editorial geographic selection.",
+      "related_zone_id": "area-488ebd148e07",
+      "geometry_method": "Reused approximate outline from data/zones.geojson; see related_zone_id."
+    },
+    {
+      "id": "askvan-burquitlam",
+      "name": "Burquitlam station pocket",
+      "sources": [
+        "https://www.reddit.com/r/askvan/comments/1q5qxo5/priced_out_of_city_of_vancouver_best_place_to/",
+        "https://www.reddit.com/r/askvan/comments/1nqawrp/buying_a_townhouse_in_lower_mainland/"
+      ],
+      "assessment": "Burquitlam is directly recommended for transit and access to green space; source anecdotes do not establish commute times or rental prices.",
+      "related_zone_id": "area-burquitlam-trial",
+      "geometry_method": "Reused approximate outline from data/zones.geojson; see related_zone_id."
+    },
+    {
+      "id": "askvan-champlain-heights",
+      "name": "Champlain Heights / Everett Crowley",
+      "sources": [
+        "https://www.reddit.com/r/askvan/comments/1vfojhq/neighbourhood_recommendation_for_young_couple/",
+        "https://www.reddit.com/r/askvan/comments/1nqawrp/buying_a_townhouse_in_lower_mainland/"
+      ],
+      "assessment": "A resident recommends its parks and townhouse/low-rise form; other comments describe spacious older homes. Purchasing/leasehold claims were not translated into rental savings.",
+      "related_zone_id": null,
+      "geometry_method": "Kerr/E 54th, Boundary/SE Marine and Kerr/SE Marine anchors. Northeast projects Boundary longitude to E 54th latitude; not a claimed intersection. Approximate park/residential envelope."
+    },
+    {
+      "id": "askvan-fraserview-riverfront",
+      "name": "Fraserview riverfront west of Kerr",
+      "sources": [
+        "https://www.reddit.com/r/askvan/comments/1nqawrp/buying_a_townhouse_in_lower_mainland/",
+        "https://www.reddit.com/r/askvan/comments/1q5qxo5/priced_out_of_city_of_vancouver_best_place_to/",
+        "https://www.reddit.com/r/askvan/comments/1xc17df/opinions_on_these_neighborhoods/"
+      ],
+      "assessment": "Residents mention river walks and larger older townhomes west of Kerr; recent discussion adds social/commute inconvenience. Exact unit condition and rent remain unverified.",
+      "related_zone_id": null,
+      "geometry_method": "Victoria/Kerr intersections with SE Marine Drive and East Kent Avenue South. Straight edges approximate the residential strip; no riverfront access guarantee."
+    },
+    {
+      "id": "askvan-river-district",
+      "name": "River District / East Fraser Lands",
+      "sources": [
+        "https://www.reddit.com/r/askvan/comments/1nqawrp/buying_a_townhouse_in_lower_mainland/",
+        "https://www.reddit.com/r/askvan/comments/1q5qxo5/priced_out_of_city_of_vancouver_best_place_to/"
+      ],
+      "assessment": "Residents recommend river walks and townhomes but distinguish newer smaller units from the older stock west of Kerr. Official city context confirms Kerr-to-Boundary location.",
+      "related_zone_id": null,
+      "geometry_method": "Kerr/Boundary intersections at SE Marine Drive and East Kent Avenue South. Approximate residential search strip, not the entire official East Fraser Lands boundary."
+    },
+    {
+      "id": "askvan-marpole-village",
+      "name": "Marpole village residential pocket",
+      "sources": [
+        "https://www.reddit.com/r/askvan/comments/1nqawrp/buying_a_townhouse_in_lower_mainland/"
+      ],
+      "assessment": "Suggested for duplexes/townhouses and usable space. This is a weaker, single-thread lead; no purchase-price claims or generic affordability promise carried into rental notes.",
+      "related_zone_id": null,
+      "geometry_method": "Granville/W 63rd and Granville/Oak W 70th anchors; northeast projects Oak/W 70th longitude to W 63rd latitude. Not an asserted Oak/W 63rd intersection."
+    }
+  ],
+  "accepted_geometry_anchors": {
+    "ch_nw": {
+      "query": "Kerr St and E 54th Ave, Vancouver",
+      "coordinates": [
+        -123.0412798,
+        49.2201836
+      ],
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Kerr+St+and+E+54th+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "matched_address": "E 54th Ave and Kerr St, Vancouver, BC",
+      "score": 100,
+      "intersection_id": "0d5955b7-dbf6-42b4-8e2d-4d8a9956b61e"
+    },
+    "ch_se": {
+      "query": "Boundary Rd and SE Marine Dr, Vancouver",
+      "coordinates": [
+        -123.0236864,
+        49.2081736
+      ],
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Boundary+Rd+and+SE+Marine+Dr%2C+Vancouver%2C+BC&maxResults=1",
+      "matched_address": "Boundary Rd and SE Marine Dr, Vancouver, BC",
+      "score": 100,
+      "intersection_id": "203a2271-1bf8-4c8a-9880-b84135601555"
+    },
+    "ch_sw": {
+      "query": "Kerr St and SE Marine Dr, Vancouver",
+      "coordinates": [
+        -123.042259,
+        49.2081639
+      ],
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Kerr+St+and+SE+Marine+Dr%2C+Vancouver%2C+BC&maxResults=1",
+      "matched_address": "Kerr St and SE Marine Dr, Vancouver, BC",
+      "score": 100,
+      "intersection_id": "ad1cbdf1-bded-48fa-92d9-736393a31e6e"
+    },
+    "fv_ne": {
+      "query": "Kerr St and SE Marine Dr, Vancouver",
+      "coordinates": [
+        -123.042259,
+        49.2081639
+      ],
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Kerr+St+and+SE+Marine+Dr%2C+Vancouver%2C+BC&maxResults=1",
+      "matched_address": "Kerr St and SE Marine Dr, Vancouver, BC",
+      "score": 100,
+      "intersection_id": "ad1cbdf1-bded-48fa-92d9-736393a31e6e"
+    },
+    "fv_nw": {
+      "query": "Victoria Dr and SE Marine Dr, Vancouver",
+      "coordinates": [
+        -123.0661103,
+        49.2097343
+      ],
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Victoria+Dr+and+SE+Marine+Dr%2C+Vancouver%2C+BC&maxResults=1",
+      "matched_address": "SE Marine Dr and Victoria Dr, Vancouver, BC",
+      "score": 100,
+      "intersection_id": "0fe01cba-77da-4a00-93f3-3399c74d394f"
+    },
+    "fv_se": {
+      "query": "Kerr St and E Kent Ave S, Vancouver",
+      "coordinates": [
+        -123.042272,
+        49.2065414
+      ],
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Kerr+St+and+E+Kent+Ave+S%2C+Vancouver%2C+BC&maxResults=1",
+      "matched_address": "East Kent Ave S and Kerr St, Vancouver, BC",
+      "score": 100,
+      "intersection_id": "972af93c-8db9-4e1c-9622-fcf6a4942ce0"
+    },
+    "fv_sw": {
+      "query": "Victoria Dr and E Kent Ave S, Vancouver",
+      "coordinates": [
+        -123.0661632,
+        49.2072233
+      ],
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Victoria+Dr+and+E+Kent+Ave+S%2C+Vancouver%2C+BC&maxResults=1",
+      "matched_address": "East Kent Ave S and Victoria Dr, Vancouver, BC",
+      "score": 100,
+      "intersection_id": "76a74076-a65c-4534-833e-7c7cce4ffd00"
+    },
+    "ma_nw": {
+      "query": "Granville St and W 63rd Ave, Vancouver",
+      "coordinates": [
+        -123.1403555,
+        49.213998
+      ],
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Granville+St+and+W+63rd+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "matched_address": "Granville St and W 63rd Ave, Vancouver, BC",
+      "score": 100,
+      "intersection_id": "4aacade5-86cb-4d8c-87e2-9a0de4b202f4"
+    },
+    "ma_se": {
+      "query": "Oak St and W 70th Ave, Vancouver",
+      "coordinates": [
+        -123.1302583,
+        49.2084572
+      ],
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Oak+St+and+W+70th+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "matched_address": "Oak St and W 70th Ave, Vancouver, BC",
+      "score": 100,
+      "intersection_id": "79b08029-2ba5-4796-9156-0fa573d9948a"
+    },
+    "ma_sw": {
+      "query": "Granville St and W 70th Ave, Vancouver",
+      "coordinates": [
+        -123.140534,
+        49.2085349
+      ],
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Granville+St+and+W+70th+Ave%2C+Vancouver%2C+BC&maxResults=1",
+      "matched_address": "Granville St and W 70th Ave, Vancouver, BC",
+      "score": 100,
+      "intersection_id": "2fa0b341-abb0-4c8e-af88-5248b6e04b65"
+    },
+    "rd_ne": {
+      "query": "Boundary Rd and SE Marine Dr, Vancouver",
+      "coordinates": [
+        -123.0236864,
+        49.2081736
+      ],
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Boundary+Rd+and+SE+Marine+Dr%2C+Vancouver%2C+BC&maxResults=1",
+      "matched_address": "Boundary Rd and SE Marine Dr, Vancouver, BC",
+      "score": 100,
+      "intersection_id": "203a2271-1bf8-4c8a-9880-b84135601555"
+    },
+    "rd_nw": {
+      "query": "Kerr St and SE Marine Dr, Vancouver",
+      "coordinates": [
+        -123.042259,
+        49.2081639
+      ],
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Kerr+St+and+SE+Marine+Dr%2C+Vancouver%2C+BC&maxResults=1",
+      "matched_address": "Kerr St and SE Marine Dr, Vancouver, BC",
+      "score": 100,
+      "intersection_id": "ad1cbdf1-bded-48fa-92d9-736393a31e6e"
+    },
+    "rd_se": {
+      "query": "Boundary Rd and E Kent Ave S, Vancouver",
+      "coordinates": [
+        -123.0234002,
+        49.2039609
+      ],
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Boundary+Rd+and+E+Kent+Ave+S%2C+Vancouver%2C+BC&maxResults=1",
+      "matched_address": "Boundary Rd and East Kent Ave S, Vancouver, BC",
+      "score": 100,
+      "intersection_id": "e6762ed6-c754-4941-845e-c454e70c6859"
+    },
+    "rd_sw": {
+      "query": "Kerr St and E Kent Ave S, Vancouver",
+      "coordinates": [
+        -123.042272,
+        49.2065414
+      ],
+      "url": "https://geocoder.api.gov.bc.ca/addresses.json?addressString=Kerr+St+and+E+Kent+Ave+S%2C+Vancouver%2C+BC&maxResults=1",
+      "matched_address": "East Kent Ave S and Kerr St, Vancouver, BC",
+      "score": 100,
+      "intersection_id": "972af93c-8db9-4e1c-9622-fcf6a4942ce0"
+    }
+  },
+  "official_context": [
+    "https://vancouver.ca/home-property-development/east-fraser-lands-river-district.aspx",
+    "https://vancouver.ca/parks-recreation-culture/champlain-heights-community-centre.aspx"
+  ],
+  "excluded_from_layer": "Burnaby, West Vancouver and other excluded municipalities. Burke Mountain was considered but not selected because its driving dependence is a weaker fit. Family/school and home-purchase price claims were not treated as rental evidence."
+}

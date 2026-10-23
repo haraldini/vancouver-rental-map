@@ -2,7 +2,7 @@
 
 A shared map with versioned GeoJSON on GitHub, human editing in **geojson.io**, and display through **uMap remote layers**. Humans and AI agents edit the same files through reviewed pull requests.
 
-**Status: 36 search pockets plus a Highway 1 reference line.** The original map has been refined into smaller pockets, with new trial areas in Vancouver and Coquitlam. See the [priority legend](docs/search-priorities.md) and [redraw references](docs/redraw-2026-10-21.md). Boundaries are approximate search guides; assess each actual address. Descriptions are brief: Good, Bad, Important.
+**Status: 36 search pockets plus a Highway 1 reference line.** The original map has been refined into smaller pockets, with new trial areas in Vancouver and Coquitlam. See the [priority legend](docs/search-priorities.md) and [redraw references](docs/redraw-2026-10-21.md). Boundaries are approximate search guides; assess each actual address. Descriptions contain practical pros and cons, with a short caveat only where useful.
 
 ## Start here
 
@@ -16,12 +16,14 @@ The editor link and production URL show `main`. Changes in a pull request appear
 
 | Layer | Canonical file | Purpose |
 | --- | --- | --- |
-| Zones | [data/zones.geojson](data/zones.geojson) | 36 search pockets + Highway 1 reference (one editable layer) |
+| Zones | [data/zones.geojson](data/zones.geojson) | 36 search pockets + Highway 1 reference |
+| r/askvan recommendations | [data/askvan-recommendations.geojson](data/askvan-recommendations.geojson) | 12 independently toggleable recommendations; [sources and setup](docs/askvan-recommendations.md) |
 
-Production remote URL:
+Production remote URLs (configure one uMap layer for each):
 
 ```text
 https://raw.githubusercontent.com/haraldini/vancouver-rental-map/main/data/zones.geojson
+https://raw.githubusercontent.com/haraldini/vancouver-rental-map/main/data/askvan-recommendations.geojson
 ```
 
 GitHub serves the committed file directly. **No Pages site, build, API key, or deployment account is required.** Merging a pull request to `main` publishes the data at the stable URL. Raw-file and browser caching may delay visibility; reload and verify the raw contents before troubleshooting uMap. This is not live collaboration: geojson.io does not synchronize changes back automatically.
