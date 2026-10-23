@@ -7,8 +7,8 @@ or claims about current rental availability. Current outlines follow the [author
 | Priority | Map colour | Areas |
 | --- | --- | --- |
 | Lead the search | `#18794e` | Lower Lonsdale, Moodyville, Kits beach-side / Kits Point, Fairview Slopes, Kits southern residential streets |
-| Search consistently | `#2478b4` | Central Lonsdale shopping corridor, Mount Pleasant / Main St village, Commercial Drive corridor (Grandview-Woodland), Trout Lake / John Hendry Park |
-| Exceptional-home opportunities | `#a66b16` | Point Grey, Dunbar village corridor, Moody Centre / Rocky Point, Southern Dunbar, Grand Boulevard residential pocket |
+| Search consistently | `#2478b4` | Central Lonsdale shopping corridor, Mount Pleasant / Main St village, Commercial Drive corridor (Grandview-Woodland), Trout Lake / John Hendry Park, Burnaby Heights / Confederation Park edge |
+| Exceptional-home opportunities | `#a66b16` | Point Grey, Dunbar village corridor, Moody Centre / Rocky Point, Southern Dunbar, Grand Boulevard residential pocket, Capitol Hill / Cambridge ridge, College Park / Easthill residential pocket |
 | Selective property search | `#7e57a5` | Olympic Village, West End (Stanley Park side), Suter Brook / Newport / Inlet Centre |
 | Nature-focused alternative | `#bc641b` | Dollarton west — Northwoods node, Dollarton east — Roche Point / Cates Park, Parkgate village core, Deep Cove village, Southlands rural pocket, Seymour southern residential lobe |
 | Northern exception: case-by-case | `#aa4276` | Lynn Valley Town Centre (north of Hwy 1 — exception), Edgemont Village (north of Hwy 1 — exception), Upper Lonsdale — Queens corridor (north of Hwy 1 — exception) |
@@ -45,7 +45,7 @@ preserved in `source_description` and `source_category`; original KML style valu
 remain in `kml_style`. Preserve these historical fields on future edits.
 
 Both geojson.io simplestyle and uMap `_umap_options` colours were updated together.
-Opacity and line width remain consistent. The map now contains 36 area polygons
+Opacity and line width remain consistent. The map now contains 39 area polygons
 and one reference line; original IDs are retained, with 13 additional IDs. See the
 redraw record for changed coordinates and split-feature provenance. The Highway 1 reference note now explicitly acknowledges
 the named northern exceptions rather than presenting the line as an absolute rule.
@@ -54,3 +54,5 @@ After merge, reload the uMap remote layer and verify its colours and popups. If 
 popup uses a custom template, include `{name}` and `{description}`. The existing
 remote URL stays the same. These edits do not create separate toggleable layers;
 they preserve the original single-layer structure.
+
+The [inlet-side addition](inlet-pockets.md) permits only the two named north Burnaby pockets and the mapped College Park/Easthill pocket, evaluated per home.

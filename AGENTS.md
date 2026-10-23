@@ -14,3 +14,5 @@
 - Keep area `description` popups brief: Good and Bad, plus Important only when it adds a concrete caveat. No trial labels, priorities, approval/exception status, search-workflow instructions, history, changelog, provenance, or editing instructions in popup text. Keep search status in its dedicated fields, not the description. Preserve original source notes in their separate metadata fields.
 
 - Current search includes only the three named Coquitlam trial pockets; no blanket Coquitlam approval. Redraws are approximate search outlines. Consult `docs/redraw-2026-10-21.md` and preserve `derived_from` relationships when editing split areas.
+
+- The owner authorized two north Burnaby pockets (Heights/Confederation Park edge and Capitol Hill/Cambridge ridge) plus College Park/Easthill in western Port Moody. See `docs/inlet-pockets.md`. These override the earlier blanket Burnaby exclusion only within those named pockets.

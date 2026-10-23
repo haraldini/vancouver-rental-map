@@ -1,0 +1,187 @@
+{
+  "type": "FeatureCollection",
+  "name": "Inlet-side pockets",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -123.0113144,
+              49.2855728
+            ],
+            [
+              -123.0114084,
+              49.2810437
+            ],
+            [
+              -123.0031213,
+              49.2810157
+            ],
+            [
+              -123.0030436,
+              49.2855138
+            ],
+            [
+              -123.0113144,
+              49.2855728
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "inlet-heights-confederation",
+        "name": "Burnaby Heights / Confederation Park edge",
+        "description": "Good: Hastings shops, park access, and house-form streets.\nBad: Hastings traffic; northern park trails are steep. Views vary by home.",
+        "source": "Owner-requested inlet-side addition, 2026-10-23; BC Address Geocoder anchors and cited municipal context. See docs/inlet-pockets.md.",
+        "municipality": "Burnaby",
+        "search_priority": "Search consistently",
+        "category": "Search consistently",
+        "search_status": "case-by-case",
+        "geometry_method": "Carleton North/Oxford, Oxford/Penzance/Willingdon North, and Carleton/Willingdon at Hastings. Straight street-to-street envelope west of Confederation Park.",
+        "geometry_updated": "2026-10-23",
+        "boundary_accuracy": "Approximate residential search outline; not an official neighbourhood boundary, measured walk, or guaranteed waterfront access.",
+        "reference_sources": [
+          "https://www.burnaby.ca/explore-outdoors/parks/confederation-park",
+          "https://www.burnaby.ca/explore-outdoors/walking-hiking-and-biking/trans-canada-trail"
+        ],
+        "stroke": "#2478b4",
+        "fill": "#2478b4",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.25098039215686274,
+        "_umap_options": {
+          "color": "#2478b4",
+          "fillColor": "#2478b4",
+          "weight": 2,
+          "opacity": 1,
+          "fillOpacity": 0.25098039215686274
+        },
+        "related_zone_id": "area-heights-confederation"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.9903856,
+              49.2864021
+            ],
+            [
+              -122.990451,
+              49.284505
+            ],
+            [
+              -122.9849173,
+              49.2843984
+            ],
+            [
+              -122.984882,
+              49.286316
+            ],
+            [
+              -122.9903856,
+              49.2864021
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "inlet-capitol-cambridge",
+        "name": "Capitol Hill / Cambridge ridge",
+        "description": "Good: Quiet residential streets and potential inlet or mountain views.\nBad: Hills and a longer walk to shops; the view depends on the unit.",
+        "source": "Owner-requested inlet-side addition, 2026-10-23; BC Address Geocoder anchors and cited municipal context. See docs/inlet-pockets.md.",
+        "municipality": "Burnaby",
+        "search_priority": "Exceptional-home opportunities",
+        "category": "Exceptional-home opportunities",
+        "search_status": "case-by-case",
+        "geometry_method": "Hythe North/Grosvenor North at Cambridge and Dundas. A compact ridge pocket, not a blanket north-slope or waterfront polygon.",
+        "geometry_updated": "2026-10-23",
+        "boundary_accuracy": "Approximate residential search outline; not an official neighbourhood boundary, measured walk, or guaranteed waterfront access.",
+        "reference_sources": [
+          "https://www.burnaby.ca/our-city/strategies-and-plans/official-community-plan/community-plans",
+          "https://www.burnaby.ca/explore-outdoors/walking-hiking-and-biking"
+        ],
+        "stroke": "#a66b16",
+        "fill": "#a66b16",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.25098039215686274,
+        "_umap_options": {
+          "color": "#a66b16",
+          "fillColor": "#a66b16",
+          "weight": 2,
+          "opacity": 1,
+          "fillOpacity": 0.25098039215686274
+        },
+        "related_zone_id": "area-capitol-cambridge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.8765784,
+              49.2844557
+            ],
+            [
+              -122.8768289,
+              49.2835522
+            ],
+            [
+              -122.8745158,
+              49.2816727
+            ],
+            [
+              -122.8713425,
+              49.282806
+            ],
+            [
+              -122.8765784,
+              49.2844557
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "id": "inlet-college-park-easthill",
+        "name": "College Park / Easthill residential pocket",
+        "description": "Good: House-form options, nearby green space, and potential inlet views.\nBad: Hills; shops, stations, and the waterfront may require a longer trip.",
+        "source": "Owner-requested inlet-side addition, 2026-10-23; BC Address Geocoder anchors and cited municipal context. See docs/inlet-pockets.md.",
+        "municipality": "Port Moody",
+        "search_priority": "Exceptional-home opportunities",
+        "category": "Exceptional-home opportunities",
+        "search_status": "case-by-case",
+        "geometry_method": "Oxford/Princeton, College Park/Oxford, Cecile/College Park, and Princeton/McMaster corners. Straight connecting edges enclose part of the residential hill; they are not park boundaries or measured walking catchments.",
+        "geometry_updated": "2026-10-23",
+        "boundary_accuracy": "Approximate residential search outline; not an official neighbourhood boundary, measured walk, or guaranteed waterfront access.",
+        "reference_sources": [
+          "https://engage.portmoody.ca/portmoody-2050",
+          "https://www.portmoody.ca/media/ohuizliv/draft-port-moody-2050-official-community-plan-july-15-2025.pdf",
+          "https://pub-portmoody.escribemeetings.com/filestream.ashx?DocumentId=12088"
+        ],
+        "stroke": "#a66b16",
+        "fill": "#a66b16",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill-opacity": 0.25098039215686274,
+        "_umap_options": {
+          "color": "#a66b16",
+          "fillColor": "#a66b16",
+          "weight": 2,
+          "opacity": 1,
+          "fillOpacity": 0.25098039215686274
+        },
+        "related_zone_id": "area-college-park-easthill"
+      }
+    }
+  ]
+}
